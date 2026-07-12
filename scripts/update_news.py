@@ -75,7 +75,7 @@ def edit_with_ai(items):
 分类只能是 model、research、training、product、policy、other。保留候选 id，不得创造 id。返回纯 JSON：
 {"editorial_note":"80-140字中文的本周趋势总览","items":[{"id":"...","title":"...","summary":"...","why_it_matters":"...","category":"model","score":85}]}
 不要声称阅读了链接全文，不要把营销措辞当成已证实结论。"""
-  response=OpenAI().responses.create(model=os.getenv("OPENAI_MODEL","gpt-5.4-mini"),reasoning={"effort":"low"},instructions=instructions,input=json.dumps(candidates,ensure_ascii=False),text={"format":{"type":"json_object"}})
+  response=OpenAI().responses.create(model=os.getenv("OPENAI_MODEL","gpt-5.4-mini"),reasoning={"effort":"low"},instructions=instructions,input="Return JSON for these candidates:\n"+json.dumps(candidates,ensure_ascii=False),text={"format":{"type":"json_object"}})
   edited=json.loads(response.output_text); originals={x["id"]:x for x in items}; result=[]
   for e in edited.get("items",[]):
    if e.get("id") not in originals: continue
