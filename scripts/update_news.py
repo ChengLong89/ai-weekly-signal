@@ -62,8 +62,37 @@ def collect():
   selected.append(item); source_counts[item["source"]]=source_counts.get(item["source"],0)+1
   if len(selected)==16: break
  return selected
+def edit_with_ai(items):
+ """Use a model as editor while preserving source-of-truth fields."""
+ if not os.getenv("OPENAI_API_KEY"):
+  print("INFO OPENAI_API_KEY absent; publishing rule-based edition")
+  return items, "本期使用规则筛选与来源原摘要生成。", False
+ try:
+  from openai import OpenAI
+  candidates=[{k:x[k] for k in ("id","title","summary","source","date","url","category","score")} for x in items]
+  instructions="""你是严谨的中文 AI 科技周报主编。只依据候选资料编辑，不使用未提供的事实，不猜测。
+选择并排序最多 12 条最重要内容；标题翻译或改写成简洁中文；摘要为 45-90 字中文，说明具体进展；why_it_matters 为 35-70 字中文，解释影响而不是重复摘要；重新判断分类和 0-100 影响分。
+分类只能是 model、research、training、product、policy、other。保留候选 id，不得创造 id。返回纯 JSON：
+{"editorial_note":"80-140字中文的本周趋势总览","items":[{"id":"...","title":"...","summary":"...","why_it_matters":"...","category":"model","score":85}]}
+不要声称阅读了链接全文，不要把营销措辞当成已证实结论。"""
+  response=OpenAI().responses.create(model=os.getenv("OPENAI_MODEL","gpt-5.4-mini"),reasoning={"effort":"low"},instructions=instructions,input=json.dumps(candidates,ensure_ascii=False),text={"format":{"type":"json_object"}})
+  edited=json.loads(response.output_text); originals={x["id"]:x for x in items}; result=[]
+  for e in edited.get("items",[]):
+   if e.get("id") not in originals: continue
+   base=originals[e["id"]].copy()
+   for key in ("title","summary","why_it_matters","category","score"):
+    if key in e: base[key]=e[key]
+   if base["category"] not in KEYWORDS and base["category"]!="other": base["category"]="other"
+   base["score"]=max(0,min(100,int(base["score"])))
+   result.append(base)
+  if len(result)<5: raise ValueError("model returned too few valid items")
+  print(f"AI editor selected {len(result)} items")
+  return result, str(edited.get("editorial_note","")).strip(), True
+ except Exception as ex:
+  print(f"WARN AI editor failed; using rule-based fallback: {ex}")
+  return items, "大模型编辑暂时不可用，本期已自动切换为规则筛选版本。", False
 def main():
- items=collect(); data={"generated_at":NOW.isoformat(),"week_label":f"{NOW.year} · 第 {NOW.isocalendar().week} 周","sources_scanned":len(FEEDS),"items":items}
+ candidates=collect(); items,note,ai_edited=edit_with_ai(candidates); data={"generated_at":NOW.isoformat(),"week_label":f"{NOW.year} · 第 {NOW.isocalendar().week} 周","sources_scanned":len(FEEDS),"editorial_note":note,"ai_edited":ai_edited,"items":items}
  (ROOT/"data").mkdir(exist_ok=True); (ROOT/"data/latest.json").write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding="utf-8")
  rss=['<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>AI Weekly Signal</title><link>https://github.com/</link><description>每周 AI 要闻</description>']
  for x in items: rss.append(f'<item><title><![CDATA[{x["title"]}]]></title><link>{x["url"]}</link><description><![CDATA[{x["summary"]}]]></description><pubDate>{x["date"]}</pubDate></item>')

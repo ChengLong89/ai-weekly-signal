@@ -20,6 +20,9 @@ jobs:
         with: {python-version: "3.12", cache: pip}
       - run: pip install -r requirements.txt
       - run: python scripts/update_news.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.4-mini' }}
       - name: Commit this week's briefing
         run: |
           git config user.name "ai-weekly-bot"

@@ -1,0 +1,4 @@
+.editorial{display:grid;grid-template-columns:180px 1fr;gap:28px;padding:32px 0;border-bottom:1px solid var(--ink)}
+.editorial span{font:11px "DM Mono",monospace;background:var(--acid);padding:6px 8px;justify-self:start;align-self:start}
+.editorial p{font-size:18px;line-height:1.75;margin:0;max-width:850px}
+@media(max-width:720px){.editorial{grid-template-columns:1fr;gap:15px}.editorial p{font-size:16px}}
