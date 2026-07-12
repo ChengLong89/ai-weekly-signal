@@ -12,6 +12,7 @@
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+SC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/style.css">
   <link rel="stylesheet" href="assets/editorial.css">
+  <link rel="stylesheet" href="assets/feedback.css">
 </head>
 <body>
   <header class="topbar">
@@ -29,7 +30,7 @@
     <section id="editorial" class="editorial"><span>EDITOR'S NOTE</span><p>正在准备本周趋势总览…</p></section>
 
     <section class="controls" aria-label="筛选新闻">
-      <div id="filters" class="filters"></div>
+      <div class="control-left"><label class="edition-label">往期<select id="edition" aria-label="选择周报期数"><option>最新一期</option></select></label><div id="filters" class="filters"></div></div>
       <label class="search"><span>⌕</span><input id="search" type="search" placeholder="搜索标题、机构或关键词" aria-label="搜索"></label>
     </section>
 
@@ -41,7 +42,7 @@
     <section class="method">
       <div><span class="number">01</span><h3>广泛扫描</h3><p>持续关注顶级 AI 实验室、研究机构、论文平台和可靠科技媒体。</p></div>
       <div><span class="number">02</span><h3>影响力排序</h3><p>综合来源权威性、技术新颖性、跨来源热度和行业影响进行评分。</p></div>
-      <div><span class="number">03</span><h3>可追溯摘要</h3><p>每条信息都链接原始来源，并用一句话解释它为什么值得你关注。</p></div>
+      <div><span class="number">03</span><h3>反馈式选稿</h3><p>给喜欢的文章点赞，后续周报会温和增加相似主题，同时保留重大新闻。</p></div>
     </section>
   </main>
   <footer><span>AI WEEKLY SIGNAL</span><span>Built for signal, not noise.</span><a href="feed.xml">RSS 订阅 ↗</a></footer>

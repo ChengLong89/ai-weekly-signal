@@ -23,11 +23,16 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.4-mini' }}
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Create article feedback links
+        run: python scripts/publish_feedback.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
       - name: Commit this week's briefing
         run: |
           git config user.name "ai-weekly-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/latest.json feed.xml
+          git add data/latest.json data/archive feed.xml
           git diff --cached --quiet || git commit -m "Update weekly AI briefing"
           git push
       - uses: actions/configure-pages@v5
@@ -35,7 +40,3 @@ jobs:
         with: {path: "."}
       - name: Deploy updated briefing
         uses: actions/deploy-pages@v4
-      - name: Send GitHub notification
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: gh issue create --title "AI 周报已更新 · $(date +%F)" --body "本周 AI 要闻已生成并发布。打开网站查看完整内容。本通知由每周自动任务创建。"
