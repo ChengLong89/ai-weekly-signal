@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="每周自动汇集、筛选并解读全球最重要的 AI 新闻与论文。">
+  <meta property="og:title" content="AI Weekly Signal">
+  <meta property="og:description" content="过滤噪音，只看本周真正重要的 AI 进展。">
+  <title>AI Weekly Signal · AI 每周要闻</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+SC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#">AI <span>WEEKLY</span> SIGNAL</a>
+    <div class="status"><i></i> 每周自动更新</div>
+  </header>
+  <main>
+    <section class="hero">
+      <div class="eyebrow">WEEKLY INTELLIGENCE BRIEFING</div>
+      <h1>过滤噪音，<br><em>只看真正重要的 AI 进展。</em></h1>
+      <p>从新模型、训练方法到关键论文——每周自动扫描权威信源，按影响力筛选，并告诉你“为什么重要”。</p>
+      <div class="meta"><span id="week">本周</span><span>•</span><span id="source-count">扫描中…</span><span>•</span><span id="updated">正在更新</span></div>
+    </section>
+
+    <section class="controls" aria-label="筛选新闻">
+      <div id="filters" class="filters"></div>
+      <label class="search"><span>⌕</span><input id="search" type="search" placeholder="搜索标题、机构或关键词" aria-label="搜索"></label>
+    </section>
+
+    <section class="briefing">
+      <div class="section-head"><h2>本周要闻</h2><span id="count"></span></div>
+      <div id="news" class="news-grid" aria-live="polite"><div class="loading">正在读取本周信号…</div></div>
+    </section>
+
+    <section class="method">
+      <div><span class="number">01</span><h3>广泛扫描</h3><p>持续关注顶级 AI 实验室、研究机构、论文平台和可靠科技媒体。</p></div>
+      <div><span class="number">02</span><h3>影响力排序</h3><p>综合来源权威性、技术新颖性、跨来源热度和行业影响进行评分。</p></div>
+      <div><span class="number">03</span><h3>可追溯摘要</h3><p>每条信息都链接原始来源，并用一句话解释它为什么值得你关注。</p></div>
+    </section>
+  </main>
+  <footer><span>AI WEEKLY SIGNAL</span><span>Built for signal, not noise.</span><a href="feed.xml">RSS 订阅 ↗</a></footer>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
