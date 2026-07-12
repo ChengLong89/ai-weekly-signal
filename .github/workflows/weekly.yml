@@ -5,6 +5,8 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  pages: write
+  id-token: write
   issues: write
 concurrency:
   group: weekly-update
@@ -25,6 +27,11 @@ jobs:
           git add data/latest.json feed.xml
           git diff --cached --quiet || git commit -m "Update weekly AI briefing"
           git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with: {path: "."}
+      - name: Deploy updated briefing
+        uses: actions/deploy-pages@v4
       - name: Send GitHub notification
         env:
           GH_TOKEN: ${{ github.token }}
