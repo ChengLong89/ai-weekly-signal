@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "week_id": "2026-W29",
+      "week_label": "2026 · 第 29 周",
+      "generated_at": "2026-07-13T17:22:00.544675+00:00",
+      "path": "data/archive/2026-W29.json"
+    },
+    {
       "week_id": "2026-W28",
       "week_label": "2026 · 第 28 周",
       "generated_at": "2026-07-12T06:08:45.549344+00:00",
