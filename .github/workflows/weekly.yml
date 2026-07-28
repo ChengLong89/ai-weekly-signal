@@ -24,6 +24,8 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.4-mini' }}
           GITHUB_TOKEN: ${{ github.token }}
+      - name: Refresh AI blog radar
+        run: python scripts/update_blogs.py
       - name: Create article feedback links
         run: python scripts/publish_feedback.py
         env:
@@ -32,7 +34,7 @@ jobs:
         run: |
           git config user.name "ai-weekly-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/latest.json data/archive feed.xml
+          git add data/latest.json data/archive data/blogs.json feed.xml
           git diff --cached --quiet || git commit -m "Update weekly AI briefing"
           git push
       - uses: actions/configure-pages@v5

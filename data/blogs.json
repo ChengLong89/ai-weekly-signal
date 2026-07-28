@@ -1,0 +1,367 @@
+{
+  "generated_at": "2026-07-28T20:39:02.543020+00:00",
+  "window_days": 7,
+  "updated_count": 13,
+  "blogs": [
+    {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/",
+      "feed": "https://simonwillison.net/atom/everything/",
+      "category": "AI 工程",
+      "quality": 95,
+      "description": "高频追踪 LLM 工具、模型与开发实践，实验验证速度极快。",
+      "tags": [
+        "LLM",
+        "Tools",
+        "Engineering"
+      ],
+      "status": "updated",
+      "posts_this_week": 12,
+      "latest_title": "moonshotai/Kimi-K3",
+      "latest_url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
+      "latest_date": "2026-07-27"
+    },
+    {
+      "name": "OpenAI Research",
+      "url": "https://openai.com/research/",
+      "feed": "https://openai.com/news/rss.xml",
+      "category": "前沿实验室",
+      "quality": 97,
+      "description": "模型能力、训练、评测、安全和应用研究的一手发布。",
+      "tags": [
+        "Frontier",
+        "Models",
+        "Safety"
+      ],
+      "status": "updated",
+      "posts_this_week": 8,
+      "latest_title": "Scientific computing in the age of agentic AI",
+      "latest_url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "latest_date": "2026-07-28"
+    },
+    {
+      "name": "NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "category": "AI 工程",
+      "quality": 90,
+      "description": "GPU、推理、训练优化和加速计算的深度技术实践。",
+      "tags": [
+        "GPU",
+        "Inference",
+        "Performance"
+      ],
+      "status": "updated",
+      "posts_this_week": 8,
+      "latest_title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+      "latest_url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
+      "latest_date": "2026-07-27"
+    },
+    {
+      "name": "Latent Space",
+      "url": "https://www.latent.space/",
+      "feed": "https://www.latent.space/feed",
+      "category": "AI 工程",
+      "quality": 91,
+      "description": "面向 AI 工程师的访谈与技术分析，关注工具链、智能体和基础设施。",
+      "tags": [
+        "AI Engineering",
+        "Agents",
+        "Infra"
+      ],
+      "status": "updated",
+      "posts_this_week": 7,
+      "latest_title": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
+      "latest_url": "https://www.latent.space/p/chatgpt-work",
+      "latest_date": "2026-07-28"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "category": "开源生态",
+      "quality": 94,
+      "description": "开源模型、数据集、推理优化和社区研究的高频技术文章。",
+      "tags": [
+        "Open Source",
+        "Models",
+        "Tools"
+      ],
+      "status": "updated",
+      "posts_this_week": 5,
+      "latest_title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "latest_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "latest_date": "2026-07-28"
+    },
+    {
+      "name": "Gradient Flow",
+      "url": "https://gradientflow.com/",
+      "feed": "https://gradientflow.com/feed/",
+      "category": "产业与研究",
+      "quality": 88,
+      "description": "AI、数据与软件系统的研究型产业分析和专家访谈。",
+      "tags": [
+        "Data",
+        "Enterprise",
+        "Research"
+      ],
+      "status": "updated",
+      "posts_this_week": 5,
+      "latest_title": "The Big AI Labs Are Suddenly Competing with Your Own Data",
+      "latest_url": "https://gradientflow.com/the-big-ai-labs-are-suddenly-competing-with-your-own-data/",
+      "latest_date": "2026-07-28"
+    },
+    {
+      "name": "Google Research",
+      "url": "https://research.google/blog/",
+      "feed": "https://research.google/blog/rss/",
+      "category": "研究机构",
+      "quality": 95,
+      "description": "Google 跨机器学习、科学、系统与人机交互的研究成果。",
+      "tags": [
+        "Research",
+        "Science",
+        "Systems"
+      ],
+      "status": "updated",
+      "posts_this_week": 2,
+      "latest_title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
+      "latest_url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
+      "latest_date": "2026-07-22"
+    },
+    {
+      "name": "Allen AI",
+      "url": "https://allenai.org/blog",
+      "feed": "https://allenai.org/rss.xml",
+      "category": "研究机构",
+      "quality": 94,
+      "description": "开放模型、自然语言处理、科学 AI 和高质量数据研究。",
+      "tags": [
+        "Open Models",
+        "NLP",
+        "Science"
+      ],
+      "status": "updated",
+      "posts_this_week": 2,
+      "latest_title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "latest_url": "https://allenai.org/blog/olmoearth-infrastructure",
+      "latest_date": "2026-07-28"
+    },
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/discover/blog/",
+      "feed": "https://deepmind.google/blog/rss.xml",
+      "category": "前沿实验室",
+      "quality": 98,
+      "description": "前沿模型、强化学习、科学智能和 AI 安全研究的官方发布。",
+      "tags": [
+        "Frontier",
+        "Science",
+        "Safety"
+      ],
+      "status": "updated",
+      "posts_this_week": 1,
+      "latest_title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "latest_url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "latest_date": "2026-07-22"
+    },
+    {
+      "name": "BAIR Blog",
+      "url": "https://bair.berkeley.edu/blog/",
+      "feed": "https://bair.berkeley.edu/blog/feed.xml",
+      "category": "研究机构",
+      "quality": 96,
+      "description": "伯克利 AI 研究实验室的前沿成果解析，涵盖机器人、学习与基础模型。",
+      "tags": [
+        "Academic",
+        "Robotics",
+        "ML"
+      ],
+      "status": "updated",
+      "posts_this_week": 1,
+      "latest_title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
+      "latest_url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "latest_date": "2026-07-26"
+    },
+    {
+      "name": "Interconnects",
+      "url": "https://www.interconnects.ai/",
+      "feed": "https://www.interconnects.ai/feed",
+      "category": "产业与研究",
+      "quality": 95,
+      "description": "Nathan Lambert 对开源模型、训练方法与前沿实验室动态的深度分析。",
+      "tags": [
+        "Open Models",
+        "Training",
+        "Policy"
+      ],
+      "status": "updated",
+      "posts_this_week": 1,
+      "latest_title": "Open models recap: more on Kimi K3, Qwen 3.8, Xi's WAIC speech, distillation, the open-closed gap, and what's next",
+      "latest_url": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
+      "latest_date": "2026-07-22"
+    },
+    {
+      "name": "Import AI",
+      "url": "https://jack-clark.net/",
+      "feed": "https://jack-clark.net/feed/",
+      "category": "产业与研究",
+      "quality": 94,
+      "description": "Jack Clark 的长期 AI 研究简报，连接论文、能力趋势与治理议题。",
+      "tags": [
+        "Research",
+        "Policy",
+        "Trends"
+      ],
+      "status": "updated",
+      "posts_this_week": 1,
+      "latest_title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker",
+      "latest_url": "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/",
+      "latest_date": "2026-07-27"
+    },
+    {
+      "name": "One Useful Thing",
+      "url": "https://www.oneusefulthing.org/",
+      "feed": "https://www.oneusefulthing.org/feed",
+      "category": "应用与思考",
+      "quality": 90,
+      "description": "Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。",
+      "tags": [
+        "Work",
+        "Education",
+        "Adoption"
+      ],
+      "status": "updated",
+      "posts_this_week": 1,
+      "latest_title": "An opinionated guide to which AI to use to do stuff",
+      "latest_url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+      "latest_date": "2026-07-23"
+    },
+    {
+      "name": "Lilian Weng",
+      "url": "https://lilianweng.github.io/",
+      "feed": "https://lilianweng.github.io/index.xml",
+      "category": "独立研究者",
+      "quality": 98,
+      "description": "系统梳理深度学习、LLM、智能体与强化学习，技术密度极高。",
+      "tags": [
+        "LLM",
+        "Agents",
+        "Research"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "Harness Engineering for Self-Improvement",
+      "latest_url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "latest_date": "2026-07-04"
+    },
+    {
+      "name": "Chip Huyen",
+      "url": "https://huyenchip.com/",
+      "feed": "https://huyenchip.com/feed.xml",
+      "category": "AI 工程",
+      "quality": 96,
+      "description": "机器学习系统与生成式 AI 工程，兼顾原理、生产实践与产业观察。",
+      "tags": [
+        "MLOps",
+        "Systems",
+        "GenAI"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "Common pitfalls when building generative AI applications",
+      "latest_url": "https://huyenchip.com//2025/01/16/ai-engineering-pitfalls.html",
+      "latest_date": "2025-01-16"
+    },
+    {
+      "name": "Eugene Yan",
+      "url": "https://eugeneyan.com/",
+      "feed": "https://eugeneyan.com/rss/",
+      "category": "AI 工程",
+      "quality": 95,
+      "description": "推荐系统、LLM 应用与评测的实战总结，结构清晰且重视证据。",
+      "tags": [
+        "Evaluation",
+        "RecSys",
+        "LLM"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "Patterns for Building Cybersecurity Evals",
+      "latest_url": "https://eugeneyan.com//writing/cybersecurity-evals/",
+      "latest_date": "2026-06-21"
+    },
+    {
+      "name": "Jay Alammar",
+      "url": "https://jalammar.github.io/",
+      "feed": "https://jalammar.github.io/feed.xml",
+      "category": "独立研究者",
+      "quality": 94,
+      "description": "以优秀可视化解释 Transformer、语言模型与机器学习核心概念。",
+      "tags": [
+        "Explainers",
+        "Transformers",
+        "NLP"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "Moving To Substack",
+      "latest_url": "http://jalammar.github.io/moving_to_substack/",
+      "latest_date": "2025-03-26"
+    },
+    {
+      "name": "Ahead of AI",
+      "url": "https://magazine.sebastianraschka.com/",
+      "feed": "https://magazine.sebastianraschka.com/feed",
+      "category": "独立研究者",
+      "quality": 94,
+      "description": "Sebastian Raschka 对 LLM 训练、架构和实验结果的严谨拆解。",
+      "tags": [
+        "LLM",
+        "Training",
+        "Experiments"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "Controlling Reasoning Effort in LLMs",
+      "latest_url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+      "latest_date": "2026-07-18"
+    },
+    {
+      "name": "AI Snake Oil",
+      "url": "https://www.aisnakeoil.com/",
+      "feed": "https://www.aisnakeoil.com/feed",
+      "category": "社会与治理",
+      "quality": 93,
+      "description": "从实证与问责角度审视 AI 能力声明、风险、政策和社会影响。",
+      "tags": [
+        "Policy",
+        "Accountability",
+        "Society"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "What will be left for us to work on?",
+      "latest_url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+      "latest_date": "2026-07-13"
+    },
+    {
+      "name": "The Gradient",
+      "url": "https://thegradient.pub/",
+      "feed": "https://thegradient.pub/rss/",
+      "category": "学术社区",
+      "quality": 92,
+      "description": "研究者撰写的长篇文章、观点与论文解读，强调学术深度和多元视角。",
+      "tags": [
+        "Research",
+        "Essays",
+        "Community"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
+      "latest_url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+      "latest_date": "2026-02-18"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {"name":"Lilian Weng","url":"https://lilianweng.github.io/","feed":"https://lilianweng.github.io/index.xml","category":"独立研究者","quality":98,"description":"系统梳理深度学习、LLM、智能体与强化学习，技术密度极高。","tags":["LLM","Agents","Research"]},
+  {"name":"Chip Huyen","url":"https://huyenchip.com/","feed":"https://huyenchip.com/feed.xml","category":"AI 工程","quality":96,"description":"机器学习系统与生成式 AI 工程，兼顾原理、生产实践与产业观察。","tags":["MLOps","Systems","GenAI"]},
+  {"name":"Eugene Yan","url":"https://eugeneyan.com/","feed":"https://eugeneyan.com/rss/","category":"AI 工程","quality":95,"description":"推荐系统、LLM 应用与评测的实战总结，结构清晰且重视证据。","tags":["Evaluation","RecSys","LLM"]},
+  {"name":"Simon Willison","url":"https://simonwillison.net/","feed":"https://simonwillison.net/atom/everything/","category":"AI 工程","quality":95,"description":"高频追踪 LLM 工具、模型与开发实践，实验验证速度极快。","tags":["LLM","Tools","Engineering"]},
+  {"name":"Interconnects","url":"https://www.interconnects.ai/","feed":"https://www.interconnects.ai/feed","category":"产业与研究","quality":95,"description":"Nathan Lambert 对开源模型、训练方法与前沿实验室动态的深度分析。","tags":["Open Models","Training","Policy"]},
+  {"name":"Import AI","url":"https://jack-clark.net/","feed":"https://jack-clark.net/feed/","category":"产业与研究","quality":94,"description":"Jack Clark 的长期 AI 研究简报，连接论文、能力趋势与治理议题。","tags":["Research","Policy","Trends"]},
+  {"name":"Jay Alammar","url":"https://jalammar.github.io/","feed":"https://jalammar.github.io/feed.xml","category":"独立研究者","quality":94,"description":"以优秀可视化解释 Transformer、语言模型与机器学习核心概念。","tags":["Explainers","Transformers","NLP"]},
+  {"name":"Ahead of AI","url":"https://magazine.sebastianraschka.com/","feed":"https://magazine.sebastianraschka.com/feed","category":"独立研究者","quality":94,"description":"Sebastian Raschka 对 LLM 训练、架构和实验结果的严谨拆解。","tags":["LLM","Training","Experiments"]},
+  {"name":"AI Snake Oil","url":"https://www.aisnakeoil.com/","feed":"https://www.aisnakeoil.com/feed","category":"社会与治理","quality":93,"description":"从实证与问责角度审视 AI 能力声明、风险、政策和社会影响。","tags":["Policy","Accountability","Society"]},
+  {"name":"Latent Space","url":"https://www.latent.space/","feed":"https://www.latent.space/feed","category":"AI 工程","quality":91,"description":"面向 AI 工程师的访谈与技术分析，关注工具链、智能体和基础设施。","tags":["AI Engineering","Agents","Infra"]},
+  {"name":"One Useful Thing","url":"https://www.oneusefulthing.org/","feed":"https://www.oneusefulthing.org/feed","category":"应用与思考","quality":90,"description":"Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。","tags":["Work","Education","Adoption"]},
+  {"name":"The Gradient","url":"https://thegradient.pub/","feed":"https://thegradient.pub/rss/","category":"学术社区","quality":92,"description":"研究者撰写的长篇文章、观点与论文解读，强调学术深度和多元视角。","tags":["Research","Essays","Community"]},
+  {"name":"BAIR Blog","url":"https://bair.berkeley.edu/blog/","feed":"https://bair.berkeley.edu/blog/feed.xml","category":"研究机构","quality":96,"description":"伯克利 AI 研究实验室的前沿成果解析，涵盖机器人、学习与基础模型。","tags":["Academic","Robotics","ML"]},
+  {"name":"Google DeepMind","url":"https://deepmind.google/discover/blog/","feed":"https://deepmind.google/blog/rss.xml","category":"前沿实验室","quality":98,"description":"前沿模型、强化学习、科学智能和 AI 安全研究的官方发布。","tags":["Frontier","Science","Safety"]},
+  {"name":"OpenAI Research","url":"https://openai.com/research/","feed":"https://openai.com/news/rss.xml","category":"前沿实验室","quality":97,"description":"模型能力、训练、评测、安全和应用研究的一手发布。","tags":["Frontier","Models","Safety"]},
+  {"name":"Hugging Face Blog","url":"https://huggingface.co/blog","feed":"https://huggingface.co/blog/feed.xml","category":"开源生态","quality":94,"description":"开源模型、数据集、推理优化和社区研究的高频技术文章。","tags":["Open Source","Models","Tools"]},
+  {"name":"Google Research","url":"https://research.google/blog/","feed":"https://research.google/blog/rss/","category":"研究机构","quality":95,"description":"Google 跨机器学习、科学、系统与人机交互的研究成果。","tags":["Research","Science","Systems"]},
+  {"name":"NVIDIA Technical Blog","url":"https://developer.nvidia.com/blog/","feed":"https://developer.nvidia.com/blog/feed/","category":"AI 工程","quality":90,"description":"GPU、推理、训练优化和加速计算的深度技术实践。","tags":["GPU","Inference","Performance"]},
+  {"name":"Allen AI","url":"https://allenai.org/blog","feed":"https://allenai.org/rss.xml","category":"研究机构","quality":94,"description":"开放模型、自然语言处理、科学 AI 和高质量数据研究。","tags":["Open Models","NLP","Science"]},
+  {"name":"Gradient Flow","url":"https://gradientflow.com/","feed":"https://gradientflow.com/feed/","category":"产业与研究","quality":88,"description":"AI、数据与软件系统的研究型产业分析和专家访谈。","tags":["Data","Enterprise","Research"]}
+]
