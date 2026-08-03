@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T20:34:43.616171+00:00",
+  "generated_at": "2026-08-03T17:18:04.172689+00:00",
   "window_days": 7,
-  "updated_count": 13,
+  "updated_count": 12,
   "blogs": [
     {
       "name": "Simon Willison",
@@ -16,10 +16,10 @@
         "Engineering"
       ],
       "status": "updated",
-      "posts_this_week": 12,
-      "latest_title": "moonshotai/Kimi-K3",
-      "latest_url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
-      "latest_date": "2026-07-27"
+      "posts_this_week": 30,
+      "latest_title": "Quoting David Crawshaw's prompt",
+      "latest_url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+      "latest_date": "2026-08-03"
     },
     {
       "name": "OpenAI Research",
@@ -34,10 +34,10 @@
         "Safety"
       ],
       "status": "updated",
-      "posts_this_week": 8,
-      "latest_title": "Scientific computing in the age of agentic AI",
-      "latest_url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "latest_date": "2026-07-28"
+      "posts_this_week": 11,
+      "latest_title": "Ten advances in mathematics and theoretical computer science",
+      "latest_url": "https://openai.com/index/ten-advances-in-mathematics",
+      "latest_date": "2026-08-01"
     },
     {
       "name": "NVIDIA Technical Blog",
@@ -53,9 +53,9 @@
       ],
       "status": "updated",
       "posts_this_week": 8,
-      "latest_title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
-      "latest_url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
-      "latest_date": "2026-07-27"
+      "latest_title": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
+      "latest_url": "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/",
+      "latest_date": "2026-08-03"
     },
     {
       "name": "Latent Space",
@@ -71,27 +71,9 @@
       ],
       "status": "updated",
       "posts_this_week": 7,
-      "latest_title": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
-      "latest_url": "https://www.latent.space/p/chatgpt-work",
-      "latest_date": "2026-07-28"
-    },
-    {
-      "name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog",
-      "feed": "https://huggingface.co/blog/feed.xml",
-      "category": "开源生态",
-      "quality": 94,
-      "description": "开源模型、数据集、推理优化和社区研究的高频技术文章。",
-      "tags": [
-        "Open Source",
-        "Models",
-        "Tools"
-      ],
-      "status": "updated",
-      "posts_this_week": 5,
-      "latest_title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "latest_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "latest_date": "2026-07-28"
+      "latest_title": "[AINews] not much happened today",
+      "latest_url": "https://www.latent.space/p/ainews-not-much-happened-today-038",
+      "latest_date": "2026-08-01"
     },
     {
       "name": "Gradient Flow",
@@ -106,28 +88,64 @@
         "Research"
       ],
       "status": "updated",
-      "posts_this_week": 5,
-      "latest_title": "The Big AI Labs Are Suddenly Competing with Your Own Data",
-      "latest_url": "https://gradientflow.com/the-big-ai-labs-are-suddenly-competing-with-your-own-data/",
-      "latest_date": "2026-07-28"
+      "posts_this_week": 4,
+      "latest_title": "Inside AMD’s AI Bet",
+      "latest_url": "https://gradientflow.com/inside-amds-ai-bet/",
+      "latest_date": "2026-08-03"
     },
     {
-      "name": "Google Research",
-      "url": "https://research.google/blog/",
-      "feed": "https://research.google/blog/rss/",
-      "category": "研究机构",
-      "quality": 95,
-      "description": "Google 跨机器学习、科学、系统与人机交互的研究成果。",
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/discover/blog/",
+      "feed": "https://deepmind.google/blog/rss.xml",
+      "category": "前沿实验室",
+      "quality": 98,
+      "description": "前沿模型、强化学习、科学智能和 AI 安全研究的官方发布。",
       "tags": [
-        "Research",
+        "Frontier",
         "Science",
-        "Systems"
+        "Safety"
+      ],
+      "status": "updated",
+      "posts_this_week": 3,
+      "latest_title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "latest_url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "latest_date": "2026-07-30"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "category": "开源生态",
+      "quality": 94,
+      "description": "开源模型、数据集、推理优化和社区研究的高频技术文章。",
+      "tags": [
+        "Open Source",
+        "Models",
+        "Tools"
+      ],
+      "status": "updated",
+      "posts_this_week": 3,
+      "latest_title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "latest_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "latest_date": "2026-07-30"
+    },
+    {
+      "name": "Interconnects",
+      "url": "https://www.interconnects.ai/",
+      "feed": "https://www.interconnects.ai/feed",
+      "category": "产业与研究",
+      "quality": 95,
+      "description": "Nathan Lambert 对开源模型、训练方法与前沿实验室动态的深度分析。",
+      "tags": [
+        "Open Models",
+        "Training",
+        "Policy"
       ],
       "status": "updated",
       "posts_this_week": 2,
-      "latest_title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
-      "latest_url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
-      "latest_date": "2026-07-22"
+      "latest_title": "Introducing our Artifacts Hub and Adoption Dashboard",
+      "latest_url": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+      "latest_date": "2026-08-03"
     },
     {
       "name": "Allen AI",
@@ -143,27 +161,9 @@
       ],
       "status": "updated",
       "posts_this_week": 2,
-      "latest_title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "latest_url": "https://allenai.org/blog/olmoearth-infrastructure",
-      "latest_date": "2026-07-28"
-    },
-    {
-      "name": "Google DeepMind",
-      "url": "https://deepmind.google/discover/blog/",
-      "feed": "https://deepmind.google/blog/rss.xml",
-      "category": "前沿实验室",
-      "quality": 98,
-      "description": "前沿模型、强化学习、科学智能和 AI 安全研究的官方发布。",
-      "tags": [
-        "Frontier",
-        "Science",
-        "Safety"
-      ],
-      "status": "updated",
-      "posts_this_week": 1,
-      "latest_title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-      "latest_url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-      "latest_date": "2026-07-22"
+      "latest_title": "Tracing distinctive language in AI-written text",
+      "latest_url": "https://allenai.org/blog/infinigram-books",
+      "latest_date": "2026-07-31"
     },
     {
       "name": "BAIR Blog",
@@ -179,27 +179,27 @@
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "latest_url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
-      "latest_date": "2026-07-26"
+      "latest_title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
+      "latest_url": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+      "latest_date": "2026-07-29"
     },
     {
-      "name": "Interconnects",
-      "url": "https://www.interconnects.ai/",
-      "feed": "https://www.interconnects.ai/feed",
-      "category": "产业与研究",
+      "name": "Google Research",
+      "url": "https://research.google/blog/",
+      "feed": "https://research.google/blog/rss/",
+      "category": "研究机构",
       "quality": 95,
-      "description": "Nathan Lambert 对开源模型、训练方法与前沿实验室动态的深度分析。",
+      "description": "Google 跨机器学习、科学、系统与人机交互的研究成果。",
       "tags": [
-        "Open Models",
-        "Training",
-        "Policy"
+        "Research",
+        "Science",
+        "Systems"
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "Open models recap: more on Kimi K3, Qwen 3.8, Xi's WAIC speech, distillation, the open-closed gap, and what's next",
-      "latest_url": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
-      "latest_date": "2026-07-22"
+      "latest_title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
+      "latest_url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
+      "latest_date": "2026-07-30"
     },
     {
       "name": "Import AI",
@@ -215,27 +215,9 @@
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker",
-      "latest_url": "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/",
-      "latest_date": "2026-07-27"
-    },
-    {
-      "name": "One Useful Thing",
-      "url": "https://www.oneusefulthing.org/",
-      "feed": "https://www.oneusefulthing.org/feed",
-      "category": "应用与思考",
-      "quality": 90,
-      "description": "Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。",
-      "tags": [
-        "Work",
-        "Education",
-        "Adoption"
-      ],
-      "status": "updated",
-      "posts_this_week": 1,
-      "latest_title": "An opinionated guide to which AI to use to do stuff",
-      "latest_url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
-      "latest_date": "2026-07-23"
+      "latest_title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+      "latest_url": "https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
+      "latest_date": "2026-08-03"
     },
     {
       "name": "Lilian Weng",
@@ -362,6 +344,24 @@
       "latest_title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
       "latest_url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
       "latest_date": "2026-02-18"
+    },
+    {
+      "name": "One Useful Thing",
+      "url": "https://www.oneusefulthing.org/",
+      "feed": "https://www.oneusefulthing.org/feed",
+      "category": "应用与思考",
+      "quality": 90,
+      "description": "Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。",
+      "tags": [
+        "Work",
+        "Education",
+        "Adoption"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "An opinionated guide to which AI to use to do stuff",
+      "latest_url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+      "latest_date": "2026-07-23"
     }
   ]
 }
