@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-31T20:48:57.161472+00:00",
+  "generated_at": "2026-09-07T19:08:01.878501+00:00",
   "window_days": 7,
-  "updated_count": 11,
+  "updated_count": 10,
   "blogs": [
+    {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/",
+      "feed": "https://simonwillison.net/atom/everything/",
+      "category": "AI 工程",
+      "quality": 95,
+      "description": "高频追踪 LLM 工具、模型与开发实践，实验验证速度极快。",
+      "tags": [
+        "LLM",
+        "Tools",
+        "Engineering"
+      ],
+      "status": "updated",
+      "posts_this_week": 21,
+      "latest_title": "Research acceleration: The view inside OpenAI",
+      "latest_url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+      "latest_date": "2026-09-06"
+    },
     {
       "name": "OpenAI Research",
       "url": "https://openai.com/research/",
@@ -17,9 +35,9 @@
       ],
       "status": "updated",
       "posts_this_week": 13,
-      "latest_title": "A milestone in expanding access to AI",
-      "latest_url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "latest_date": "2026-08-31"
+      "latest_title": "Supporting independent journalism in Ukraine",
+      "latest_url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "latest_date": "2026-09-07"
     },
     {
       "name": "NVIDIA Technical Blog",
@@ -35,27 +53,27 @@
       ],
       "status": "updated",
       "posts_this_week": 8,
-      "latest_title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
-      "latest_url": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/",
-      "latest_date": "2026-08-31"
+      "latest_title": "Building a Memory-Driven Agent with NVIDIA NemoClaw",
+      "latest_url": "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw/",
+      "latest_date": "2026-09-04"
     },
     {
-      "name": "Simon Willison",
-      "url": "https://simonwillison.net/",
-      "feed": "https://simonwillison.net/atom/everything/",
-      "category": "AI 工程",
-      "quality": 95,
-      "description": "高频追踪 LLM 工具、模型与开发实践，实验验证速度极快。",
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "category": "开源生态",
+      "quality": 94,
+      "description": "开源模型、数据集、推理优化和社区研究的高频技术文章。",
       "tags": [
-        "LLM",
-        "Tools",
-        "Engineering"
+        "Open Source",
+        "Models",
+        "Tools"
       ],
       "status": "updated",
       "posts_this_week": 7,
-      "latest_title": "Understanding ChatGPT Work",
-      "latest_url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "latest_date": "2026-08-30"
+      "latest_title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "latest_url": "https://huggingface.co/blog/Hcompany/neomme",
+      "latest_date": "2026-09-03"
     },
     {
       "name": "Latent Space",
@@ -71,45 +89,27 @@
       ],
       "status": "updated",
       "posts_this_week": 7,
-      "latest_title": "[AINews] OpenAI shuts off Cursor",
-      "latest_url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
-      "latest_date": "2026-08-29"
+      "latest_title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+      "latest_url": "https://www.latent.space/p/grok-bot",
+      "latest_date": "2026-09-05"
     },
     {
-      "name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog",
-      "feed": "https://huggingface.co/blog/feed.xml",
-      "category": "开源生态",
-      "quality": 94,
-      "description": "开源模型、数据集、推理优化和社区研究的高频技术文章。",
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/discover/blog/",
+      "feed": "https://deepmind.google/blog/rss.xml",
+      "category": "前沿实验室",
+      "quality": 98,
+      "description": "前沿模型、强化学习、科学智能和 AI 安全研究的官方发布。",
       "tags": [
-        "Open Source",
-        "Models",
-        "Tools"
-      ],
-      "status": "updated",
-      "posts_this_week": 5,
-      "latest_title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "latest_url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "latest_date": "2026-08-28"
-    },
-    {
-      "name": "Google Research",
-      "url": "https://research.google/blog/",
-      "feed": "https://research.google/blog/rss/",
-      "category": "研究机构",
-      "quality": 95,
-      "description": "Google 跨机器学习、科学、系统与人机交互的研究成果。",
-      "tags": [
-        "Research",
+        "Frontier",
         "Science",
-        "Systems"
+        "Safety"
       ],
       "status": "updated",
       "posts_this_week": 4,
-      "latest_title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
-      "latest_url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
-      "latest_date": "2026-08-31"
+      "latest_title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "latest_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "latest_date": "2026-09-03"
     },
     {
       "name": "Gradient Flow",
@@ -125,27 +125,27 @@
       ],
       "status": "updated",
       "posts_this_week": 4,
-      "latest_title": "AI and the Job Market: What We Know So Far",
-      "latest_url": "https://gradientflow.com/ai-and-the-job-market-what-we-know-so-far/",
-      "latest_date": "2026-08-31"
+      "latest_title": "China’s AI Involution",
+      "latest_url": "https://gradientflow.com/chinas-ai-involution/",
+      "latest_date": "2026-09-07"
     },
     {
-      "name": "Google DeepMind",
-      "url": "https://deepmind.google/discover/blog/",
-      "feed": "https://deepmind.google/blog/rss.xml",
-      "category": "前沿实验室",
-      "quality": 98,
-      "description": "前沿模型、强化学习、科学智能和 AI 安全研究的官方发布。",
+      "name": "Google Research",
+      "url": "https://research.google/blog/",
+      "feed": "https://research.google/blog/rss/",
+      "category": "研究机构",
+      "quality": 95,
+      "description": "Google 跨机器学习、科学、系统与人机交互的研究成果。",
       "tags": [
-        "Frontier",
+        "Research",
         "Science",
-        "Safety"
+        "Systems"
       ],
       "status": "updated",
       "posts_this_week": 3,
-      "latest_title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "latest_url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "latest_date": "2026-08-27"
+      "latest_title": "Transfer learning for genomic prediction in underrepresented populations",
+      "latest_url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+      "latest_date": "2026-09-03"
     },
     {
       "name": "Allen AI",
@@ -161,9 +161,9 @@
       ],
       "status": "updated",
       "posts_this_week": 2,
-      "latest_title": "Ai2 and Providence Swedish Cancer Institute partner to advance AI-assisted scientific discovery",
-      "latest_url": "https://allenai.org/blog/swedish-autodiscovery-partnership",
-      "latest_date": "2026-08-27"
+      "latest_title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "latest_url": "https://allenai.org/blog/benchmirt",
+      "latest_date": "2026-09-01"
     },
     {
       "name": "Import AI",
@@ -179,27 +179,9 @@
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
-      "latest_url": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
-      "latest_date": "2026-08-31"
-    },
-    {
-      "name": "One Useful Thing",
-      "url": "https://www.oneusefulthing.org/",
-      "feed": "https://www.oneusefulthing.org/feed",
-      "category": "应用与思考",
-      "quality": 90,
-      "description": "Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。",
-      "tags": [
-        "Work",
-        "Education",
-        "Adoption"
-      ],
-      "status": "updated",
-      "posts_this_week": 1,
-      "latest_title": "Agency and Agents",
-      "latest_url": "https://www.oneusefulthing.org/p/agency-and-agents",
-      "latest_date": "2026-08-31"
+      "latest_title": "Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
+      "latest_url": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
+      "latest_date": "2026-09-07"
     },
     {
       "name": "Lilian Weng",
@@ -363,6 +345,24 @@
       "latest_title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
       "latest_url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
       "latest_date": "2026-02-18"
+    },
+    {
+      "name": "One Useful Thing",
+      "url": "https://www.oneusefulthing.org/",
+      "feed": "https://www.oneusefulthing.org/feed",
+      "category": "应用与思考",
+      "quality": 90,
+      "description": "Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。",
+      "tags": [
+        "Work",
+        "Education",
+        "Adoption"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "Agency and Agents",
+      "latest_url": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "latest_date": "2026-08-31"
     }
   ]
 }
