@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:50:19.238791+00:00",
+  "generated_at": "2026-09-21T19:58:35.359151+00:00",
   "window_days": 7,
   "updated_count": 12,
   "blogs": [
@@ -16,10 +16,10 @@
         "Engineering"
       ],
       "status": "updated",
-      "posts_this_week": 28,
-      "latest_title": "Quoting Laurie Voss",
-      "latest_url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
-      "latest_date": "2026-09-14"
+      "posts_this_week": 20,
+      "latest_title": "Quoting voxium",
+      "latest_url": "https://simonwillison.net/2026/Sep/20/voxium/",
+      "latest_date": "2026-09-20"
     },
     {
       "name": "OpenAI Research",
@@ -34,10 +34,10 @@
         "Safety"
       ],
       "status": "updated",
-      "posts_this_week": 20,
-      "latest_title": "How Fyxer built an AI executive assistant people trust",
-      "latest_url": "https://openai.com/index/fyxer",
-      "latest_date": "2026-09-14"
+      "posts_this_week": 13,
+      "latest_title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "latest_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "latest_date": "2026-09-21"
     },
     {
       "name": "NVIDIA Technical Blog",
@@ -52,10 +52,10 @@
         "Performance"
       ],
       "status": "updated",
-      "posts_this_week": 7,
-      "latest_title": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
-      "latest_url": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/",
-      "latest_date": "2026-09-14"
+      "posts_this_week": 9,
+      "latest_title": "Turn Your Latest Observations Into Timely Weather Decisions With NVIDIA Earth-2",
+      "latest_url": "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2/",
+      "latest_date": "2026-09-21"
     },
     {
       "name": "Latent Space",
@@ -70,28 +70,28 @@
         "Infra"
       ],
       "status": "updated",
-      "posts_this_week": 6,
-      "latest_title": "Humanity’s Last Invention — Richard Socher of Recursive",
-      "latest_url": "https://www.latent.space/p/recursive",
-      "latest_date": "2026-09-14"
+      "posts_this_week": 7,
+      "latest_title": "[AINews] Here are 6 Clones of Jev in 2 days",
+      "latest_url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+      "latest_date": "2026-09-19"
     },
     {
-      "name": "Interconnects",
-      "url": "https://www.interconnects.ai/",
-      "feed": "https://www.interconnects.ai/feed",
-      "category": "产业与研究",
+      "name": "Google Research",
+      "url": "https://research.google/blog/",
+      "feed": "https://research.google/blog/rss/",
+      "category": "研究机构",
       "quality": 95,
-      "description": "Nathan Lambert 对开源模型、训练方法与前沿实验室动态的深度分析。",
+      "description": "Google 跨机器学习、科学、系统与人机交互的研究成果。",
       "tags": [
-        "Open Models",
-        "Training",
-        "Policy"
+        "Research",
+        "Science",
+        "Systems"
       ],
       "status": "updated",
-      "posts_this_week": 4,
-      "latest_title": "Open-Source AI & Open Models Reading List",
-      "latest_url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "latest_date": "2026-09-11"
+      "posts_this_week": 3,
+      "latest_title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+      "latest_url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+      "latest_date": "2026-09-18"
     },
     {
       "name": "Hugging Face Blog",
@@ -106,10 +106,28 @@
         "Tools"
       ],
       "status": "updated",
-      "posts_this_week": 4,
-      "latest_title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "latest_url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "latest_date": "2026-09-10"
+      "posts_this_week": 3,
+      "latest_title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "latest_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "latest_date": "2026-09-21"
+    },
+    {
+      "name": "Interconnects",
+      "url": "https://www.interconnects.ai/",
+      "feed": "https://www.interconnects.ai/feed",
+      "category": "产业与研究",
+      "quality": 95,
+      "description": "Nathan Lambert 对开源模型、训练方法与前沿实验室动态的深度分析。",
+      "tags": [
+        "Open Models",
+        "Training",
+        "Policy"
+      ],
+      "status": "updated",
+      "posts_this_week": 2,
+      "latest_title": "The current balance of power in open models",
+      "latest_url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "latest_date": "2026-09-21"
     },
     {
       "name": "Gradient Flow",
@@ -124,28 +142,10 @@
         "Research"
       ],
       "status": "updated",
-      "posts_this_week": 3,
-      "latest_title": "Water, Noise,Power: The Real Costs of Data Centers",
-      "latest_url": "https://gradientflow.com/ai-data-centers-water-noise-power/",
-      "latest_date": "2026-09-14"
-    },
-    {
-      "name": "Allen AI",
-      "url": "https://allenai.org/blog",
-      "feed": "https://allenai.org/rss.xml",
-      "category": "研究机构",
-      "quality": 94,
-      "description": "开放模型、自然语言处理、科学 AI 和高质量数据研究。",
-      "tags": [
-        "Open Models",
-        "NLP",
-        "Science"
-      ],
-      "status": "updated",
       "posts_this_week": 2,
-      "latest_title": "Teaching future scientists to interrogate AI tools for scientific discovery",
-      "latest_url": "https://allenai.org/blog/autodiscovery-student-challenge",
-      "latest_date": "2026-09-14"
+      "latest_title": "When Work History Becomes an AI Asset",
+      "latest_url": "https://gradientflow.com/when-work-history-becomes-an-ai-asset/",
+      "latest_date": "2026-09-16"
     },
     {
       "name": "Google DeepMind",
@@ -161,63 +161,63 @@
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "latest_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "latest_date": "2026-09-08"
+      "latest_title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "latest_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "latest_date": "2026-09-15"
     },
     {
-      "name": "Google Research",
-      "url": "https://research.google/blog/",
-      "feed": "https://research.google/blog/rss/",
-      "category": "研究机构",
-      "quality": 95,
-      "description": "Google 跨机器学习、科学、系统与人机交互的研究成果。",
+      "name": "Import AI",
+      "url": "https://jack-clark.net/",
+      "feed": "https://jack-clark.net/feed/",
+      "category": "产业与研究",
+      "quality": 94,
+      "description": "Jack Clark 的长期 AI 研究简报，连接论文、能力趋势与治理议题。",
       "tags": [
         "Research",
-        "Science",
-        "Systems"
-      ],
-      "status": "updated",
-      "posts_this_week": 1,
-      "latest_title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
-      "latest_url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
-      "latest_date": "2026-09-10"
-    },
-    {
-      "name": "Ahead of AI",
-      "url": "https://magazine.sebastianraschka.com/",
-      "feed": "https://magazine.sebastianraschka.com/feed",
-      "category": "独立研究者",
-      "quality": 94,
-      "description": "Sebastian Raschka 对 LLM 训练、架构和实验结果的严谨拆解。",
-      "tags": [
-        "LLM",
-        "Training",
-        "Experiments"
-      ],
-      "status": "updated",
-      "posts_this_week": 1,
-      "latest_title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-      "latest_url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "latest_date": "2026-09-09"
-    },
-    {
-      "name": "AI Snake Oil",
-      "url": "https://www.aisnakeoil.com/",
-      "feed": "https://www.aisnakeoil.com/feed",
-      "category": "社会与治理",
-      "quality": 93,
-      "description": "从实证与问责角度审视 AI 能力声明、风险、政策和社会影响。",
-      "tags": [
         "Policy",
-        "Accountability",
-        "Society"
+        "Trends"
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "The AI-as-Normal-Technology view of loss-of-control incidents",
-      "latest_url": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
-      "latest_date": "2026-09-14"
+      "latest_title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "latest_url": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
+      "latest_date": "2026-09-21"
+    },
+    {
+      "name": "Allen AI",
+      "url": "https://allenai.org/blog",
+      "feed": "https://allenai.org/rss.xml",
+      "category": "研究机构",
+      "quality": 94,
+      "description": "开放模型、自然语言处理、科学 AI 和高质量数据研究。",
+      "tags": [
+        "Open Models",
+        "NLP",
+        "Science"
+      ],
+      "status": "updated",
+      "posts_this_week": 1,
+      "latest_title": "What a crowdsourced game revealed about steering Olmo 3",
+      "latest_url": "https://allenai.org/blog/olmo-arena",
+      "latest_date": "2026-09-17"
+    },
+    {
+      "name": "One Useful Thing",
+      "url": "https://www.oneusefulthing.org/",
+      "feed": "https://www.oneusefulthing.org/feed",
+      "category": "应用与思考",
+      "quality": 90,
+      "description": "Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。",
+      "tags": [
+        "Work",
+        "Education",
+        "Adoption"
+      ],
+      "status": "updated",
+      "posts_this_week": 1,
+      "latest_title": "The Overhang",
+      "latest_url": "https://www.oneusefulthing.org/p/the-overhang",
+      "latest_date": "2026-09-18"
     },
     {
       "name": "Lilian Weng",
@@ -267,12 +267,11 @@
         "Robotics",
         "ML"
       ],
-      "status": "unavailable",
+      "status": "quiet",
       "posts_this_week": 0,
-      "latest_title": "",
-      "latest_url": "https://bair.berkeley.edu/blog/",
-      "latest_date": null,
-      "error": "ConnectTimeout"
+      "latest_title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
+      "latest_url": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+      "latest_date": "2026-07-29"
     },
     {
       "name": "Eugene Yan",
@@ -293,24 +292,6 @@
       "latest_date": "2026-06-21"
     },
     {
-      "name": "Import AI",
-      "url": "https://jack-clark.net/",
-      "feed": "https://jack-clark.net/feed/",
-      "category": "产业与研究",
-      "quality": 94,
-      "description": "Jack Clark 的长期 AI 研究简报，连接论文、能力趋势与治理议题。",
-      "tags": [
-        "Research",
-        "Policy",
-        "Trends"
-      ],
-      "status": "quiet",
-      "posts_this_week": 0,
-      "latest_title": "Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
-      "latest_url": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
-      "latest_date": "2026-09-07"
-    },
-    {
       "name": "Jay Alammar",
       "url": "https://jalammar.github.io/",
       "feed": "https://jalammar.github.io/feed.xml",
@@ -329,6 +310,42 @@
       "latest_date": "2025-03-26"
     },
     {
+      "name": "Ahead of AI",
+      "url": "https://magazine.sebastianraschka.com/",
+      "feed": "https://magazine.sebastianraschka.com/feed",
+      "category": "独立研究者",
+      "quality": 94,
+      "description": "Sebastian Raschka 对 LLM 训练、架构和实验结果的严谨拆解。",
+      "tags": [
+        "LLM",
+        "Training",
+        "Experiments"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+      "latest_url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "latest_date": "2026-09-09"
+    },
+    {
+      "name": "AI Snake Oil",
+      "url": "https://www.aisnakeoil.com/",
+      "feed": "https://www.aisnakeoil.com/feed",
+      "category": "社会与治理",
+      "quality": 93,
+      "description": "从实证与问责角度审视 AI 能力声明、风险、政策和社会影响。",
+      "tags": [
+        "Policy",
+        "Accountability",
+        "Society"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "The AI-as-Normal-Technology view of loss-of-control incidents",
+      "latest_url": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+      "latest_date": "2026-09-14"
+    },
+    {
       "name": "The Gradient",
       "url": "https://thegradient.pub/",
       "feed": "https://thegradient.pub/rss/",
@@ -345,24 +362,6 @@
       "latest_title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
       "latest_url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
       "latest_date": "2026-02-18"
-    },
-    {
-      "name": "One Useful Thing",
-      "url": "https://www.oneusefulthing.org/",
-      "feed": "https://www.oneusefulthing.org/feed",
-      "category": "应用与思考",
-      "quality": 90,
-      "description": "Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。",
-      "tags": [
-        "Work",
-        "Education",
-        "Adoption"
-      ],
-      "status": "quiet",
-      "posts_this_week": 0,
-      "latest_title": "Agency and Agents",
-      "latest_url": "https://www.oneusefulthing.org/p/agency-and-agents",
-      "latest_date": "2026-08-31"
     }
   ]
 }
