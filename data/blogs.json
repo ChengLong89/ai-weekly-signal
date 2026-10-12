@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T21:59:53.460501+00:00",
+  "generated_at": "2026-10-12T22:29:17.504421+00:00",
   "window_days": 7,
-  "updated_count": 13,
+  "updated_count": 11,
   "blogs": [
     {
       "name": "Simon Willison",
@@ -16,10 +16,10 @@
         "Engineering"
       ],
       "status": "updated",
-      "posts_this_week": 13,
-      "latest_title": "Qwen3.8 27B addition in words",
-      "latest_url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-      "latest_date": "2026-10-04"
+      "posts_this_week": 26,
+      "latest_title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "latest_url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "latest_date": "2026-10-12"
     },
     {
       "name": "OpenAI Research",
@@ -34,10 +34,10 @@
         "Safety"
       ],
       "status": "updated",
-      "posts_this_week": 12,
-      "latest_title": "Our approach to EU text provenance rules",
-      "latest_url": "https://openai.com/index/eu-text-provenance",
-      "latest_date": "2026-10-05"
+      "posts_this_week": 13,
+      "latest_title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "latest_url": "https://openai.com/index/sophos",
+      "latest_date": "2026-10-09"
     },
     {
       "name": "Latent Space",
@@ -52,10 +52,10 @@
         "Infra"
       ],
       "status": "updated",
-      "posts_this_week": 10,
-      "latest_title": "[AINews] not much happened today",
-      "latest_url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
-      "latest_date": "2026-10-03"
+      "posts_this_week": 11,
+      "latest_title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+      "latest_url": "https://www.latent.space/p/claude-dynamic-workflows",
+      "latest_date": "2026-10-12"
     },
     {
       "name": "NVIDIA Technical Blog",
@@ -70,10 +70,10 @@
         "Performance"
       ],
       "status": "updated",
-      "posts_this_week": 8,
-      "latest_title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",
-      "latest_url": "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills/",
-      "latest_date": "2026-10-01"
+      "posts_this_week": 11,
+      "latest_title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+      "latest_url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
+      "latest_date": "2026-10-12"
     },
     {
       "name": "Hugging Face Blog",
@@ -88,46 +88,10 @@
         "Tools"
       ],
       "status": "updated",
-      "posts_this_week": 6,
-      "latest_title": "The Agent Said It Was Done. The Database Disagreed.",
-      "latest_url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "latest_date": "2026-10-03"
-    },
-    {
-      "name": "Google Research",
-      "url": "https://research.google/blog/",
-      "feed": "https://research.google/blog/rss/",
-      "category": "研究机构",
-      "quality": 95,
-      "description": "Google 跨机器学习、科学、系统与人机交互的研究成果。",
-      "tags": [
-        "Research",
-        "Science",
-        "Systems"
-      ],
-      "status": "updated",
-      "posts_this_week": 3,
-      "latest_title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
-      "latest_url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
-      "latest_date": "2026-10-05"
-    },
-    {
-      "name": "Google DeepMind",
-      "url": "https://deepmind.google/discover/blog/",
-      "feed": "https://deepmind.google/blog/rss.xml",
-      "category": "前沿实验室",
-      "quality": 98,
-      "description": "前沿模型、强化学习、科学智能和 AI 安全研究的官方发布。",
-      "tags": [
-        "Frontier",
-        "Science",
-        "Safety"
-      ],
-      "status": "updated",
-      "posts_this_week": 2,
-      "latest_title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "latest_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "latest_date": "2026-09-30"
+      "posts_this_week": 5,
+      "latest_title": "Impactful scheduling for GPU clusters",
+      "latest_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "latest_date": "2026-10-09"
     },
     {
       "name": "Allen AI",
@@ -142,10 +106,46 @@
         "Science"
       ],
       "status": "updated",
+      "posts_this_week": 3,
+      "latest_title": "Impactful scheduling for GPU clusters",
+      "latest_url": "https://allenai.org/blog/impactful-scheduling",
+      "latest_date": "2026-10-09"
+    },
+    {
+      "name": "Interconnects",
+      "url": "https://www.interconnects.ai/",
+      "feed": "https://www.interconnects.ai/feed",
+      "category": "产业与研究",
+      "quality": 95,
+      "description": "Nathan Lambert 对开源模型、训练方法与前沿实验室动态的深度分析。",
+      "tags": [
+        "Open Models",
+        "Training",
+        "Policy"
+      ],
+      "status": "updated",
       "posts_this_week": 2,
-      "latest_title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "latest_url": "https://allenai.org/blog/astabrief",
-      "latest_date": "2026-10-02"
+      "latest_title": "I expect rapid progress but not towards general superintelligence",
+      "latest_url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+      "latest_date": "2026-10-09"
+    },
+    {
+      "name": "Google Research",
+      "url": "https://research.google/blog/",
+      "feed": "https://research.google/blog/rss/",
+      "category": "研究机构",
+      "quality": 95,
+      "description": "Google 跨机器学习、科学、系统与人机交互的研究成果。",
+      "tags": [
+        "Research",
+        "Science",
+        "Systems"
+      ],
+      "status": "updated",
+      "posts_this_week": 2,
+      "latest_title": "Does better work always mean better workers?",
+      "latest_url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+      "latest_date": "2026-10-07"
     },
     {
       "name": "Gradient Flow",
@@ -161,9 +161,27 @@
       ],
       "status": "updated",
       "posts_this_week": 2,
-      "latest_title": "The AI Data Problem Moved Downstream",
-      "latest_url": "https://gradientflow.com/the-ai-data-problem-moved-downstream/",
-      "latest_date": "2026-09-30"
+      "latest_title": "Eight Security Assumptions AI Agents Quietly Break",
+      "latest_url": "https://gradientflow.com/eight-security-assumptions-ai-agents-quietly-break/",
+      "latest_date": "2026-10-07"
+    },
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/discover/blog/",
+      "feed": "https://deepmind.google/blog/rss.xml",
+      "category": "前沿实验室",
+      "quality": 98,
+      "description": "前沿模型、强化学习、科学智能和 AI 安全研究的官方发布。",
+      "tags": [
+        "Frontier",
+        "Science",
+        "Safety"
+      ],
+      "status": "updated",
+      "posts_this_week": 1,
+      "latest_title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "latest_url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "latest_date": "2026-10-06"
     },
     {
       "name": "Import AI",
@@ -179,63 +197,9 @@
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "latest_url": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
-      "latest_date": "2026-10-05"
-    },
-    {
-      "name": "Ahead of AI",
-      "url": "https://magazine.sebastianraschka.com/",
-      "feed": "https://magazine.sebastianraschka.com/feed",
-      "category": "独立研究者",
-      "quality": 94,
-      "description": "Sebastian Raschka 对 LLM 训练、架构和实验结果的严谨拆解。",
-      "tags": [
-        "LLM",
-        "Training",
-        "Experiments"
-      ],
-      "status": "updated",
-      "posts_this_week": 1,
-      "latest_title": "Language Models for Text Classification: From Bag-of-Words to Jev",
-      "latest_url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "latest_date": "2026-09-29"
-    },
-    {
-      "name": "AI Snake Oil",
-      "url": "https://www.aisnakeoil.com/",
-      "feed": "https://www.aisnakeoil.com/feed",
-      "category": "社会与治理",
-      "quality": 93,
-      "description": "从实证与问责角度审视 AI 能力声明、风险、政策和社会影响。",
-      "tags": [
-        "Policy",
-        "Accountability",
-        "Society"
-      ],
-      "status": "updated",
-      "posts_this_week": 1,
-      "latest_title": "A big-tent or small-tent AI safety movement?",
-      "latest_url": "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
-      "latest_date": "2026-10-01"
-    },
-    {
-      "name": "One Useful Thing",
-      "url": "https://www.oneusefulthing.org/",
-      "feed": "https://www.oneusefulthing.org/feed",
-      "category": "应用与思考",
-      "quality": 90,
-      "description": "Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。",
-      "tags": [
-        "Work",
-        "Education",
-        "Adoption"
-      ],
-      "status": "updated",
-      "posts_this_week": 1,
-      "latest_title": "The Dot and the Swarm",
-      "latest_url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "latest_date": "2026-10-01"
+      "latest_title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "latest_url": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
+      "latest_date": "2026-10-12"
     },
     {
       "name": "Lilian Weng",
@@ -310,24 +274,6 @@
       "latest_date": "2026-06-21"
     },
     {
-      "name": "Interconnects",
-      "url": "https://www.interconnects.ai/",
-      "feed": "https://www.interconnects.ai/feed",
-      "category": "产业与研究",
-      "quality": 95,
-      "description": "Nathan Lambert 对开源模型、训练方法与前沿实验室动态的深度分析。",
-      "tags": [
-        "Open Models",
-        "Training",
-        "Policy"
-      ],
-      "status": "quiet",
-      "posts_this_week": 0,
-      "latest_title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
-      "latest_url": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
-      "latest_date": "2026-09-22"
-    },
-    {
       "name": "Jay Alammar",
       "url": "https://jalammar.github.io/",
       "feed": "https://jalammar.github.io/feed.xml",
@@ -346,6 +292,42 @@
       "latest_date": "2025-03-26"
     },
     {
+      "name": "Ahead of AI",
+      "url": "https://magazine.sebastianraschka.com/",
+      "feed": "https://magazine.sebastianraschka.com/feed",
+      "category": "独立研究者",
+      "quality": 94,
+      "description": "Sebastian Raschka 对 LLM 训练、架构和实验结果的严谨拆解。",
+      "tags": [
+        "LLM",
+        "Training",
+        "Experiments"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "Language Models for Text Classification: From Bag-of-Words to Jev",
+      "latest_url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "latest_date": "2026-09-29"
+    },
+    {
+      "name": "AI Snake Oil",
+      "url": "https://www.aisnakeoil.com/",
+      "feed": "https://www.aisnakeoil.com/feed",
+      "category": "社会与治理",
+      "quality": 93,
+      "description": "从实证与问责角度审视 AI 能力声明、风险、政策和社会影响。",
+      "tags": [
+        "Policy",
+        "Accountability",
+        "Society"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "A big-tent or small-tent AI safety movement?",
+      "latest_url": "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+      "latest_date": "2026-10-01"
+    },
+    {
       "name": "The Gradient",
       "url": "https://thegradient.pub/",
       "feed": "https://thegradient.pub/rss/",
@@ -362,6 +344,24 @@
       "latest_title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
       "latest_url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
       "latest_date": "2026-02-18"
+    },
+    {
+      "name": "One Useful Thing",
+      "url": "https://www.oneusefulthing.org/",
+      "feed": "https://www.oneusefulthing.org/feed",
+      "category": "应用与思考",
+      "quality": 90,
+      "description": "Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。",
+      "tags": [
+        "Work",
+        "Education",
+        "Adoption"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "The Dot and the Swarm",
+      "latest_url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "latest_date": "2026-10-01"
     }
   ]
 }
