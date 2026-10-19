@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T22:29:17.504421+00:00",
+  "generated_at": "2026-10-19T20:34:12.775972+00:00",
   "window_days": 7,
-  "updated_count": 11,
+  "updated_count": 12,
   "blogs": [
     {
       "name": "Simon Willison",
@@ -16,10 +16,10 @@
         "Engineering"
       ],
       "status": "updated",
-      "posts_this_week": 26,
-      "latest_title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-      "latest_url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-      "latest_date": "2026-10-12"
+      "posts_this_week": 15,
+      "latest_title": "llm-tools-datasette 0.1.1",
+      "latest_url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "latest_date": "2026-10-18"
     },
     {
       "name": "OpenAI Research",
@@ -34,46 +34,10 @@
         "Safety"
       ],
       "status": "updated",
-      "posts_this_week": 13,
-      "latest_title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "latest_url": "https://openai.com/index/sophos",
-      "latest_date": "2026-10-09"
-    },
-    {
-      "name": "Latent Space",
-      "url": "https://www.latent.space/",
-      "feed": "https://www.latent.space/feed",
-      "category": "AI 工程",
-      "quality": 91,
-      "description": "面向 AI 工程师的访谈与技术分析，关注工具链、智能体和基础设施。",
-      "tags": [
-        "AI Engineering",
-        "Agents",
-        "Infra"
-      ],
-      "status": "updated",
-      "posts_this_week": 11,
-      "latest_title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-      "latest_url": "https://www.latent.space/p/claude-dynamic-workflows",
-      "latest_date": "2026-10-12"
-    },
-    {
-      "name": "NVIDIA Technical Blog",
-      "url": "https://developer.nvidia.com/blog/",
-      "feed": "https://developer.nvidia.com/blog/feed/",
-      "category": "AI 工程",
-      "quality": 90,
-      "description": "GPU、推理、训练优化和加速计算的深度技术实践。",
-      "tags": [
-        "GPU",
-        "Inference",
-        "Performance"
-      ],
-      "status": "updated",
-      "posts_this_week": 11,
-      "latest_title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
-      "latest_url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
-      "latest_date": "2026-10-12"
+      "posts_this_week": 12,
+      "latest_title": "How Itaú is building generative AI for its entire customer base",
+      "latest_url": "https://openai.com/index/itau-generative-ai",
+      "latest_date": "2026-10-16"
     },
     {
       "name": "Hugging Face Blog",
@@ -88,46 +52,64 @@
         "Tools"
       ],
       "status": "updated",
+      "posts_this_week": 9,
+      "latest_title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "latest_url": "https://huggingface.co/blog/hf-torchneuron",
+      "latest_date": "2026-10-19"
+    },
+    {
+      "name": "Latent Space",
+      "url": "https://www.latent.space/",
+      "feed": "https://www.latent.space/feed",
+      "category": "AI 工程",
+      "quality": 91,
+      "description": "面向 AI 工程师的访谈与技术分析，关注工具链、智能体和基础设施。",
+      "tags": [
+        "AI Engineering",
+        "Agents",
+        "Infra"
+      ],
+      "status": "updated",
+      "posts_this_week": 8,
+      "latest_title": "[AINews] High Taste Testers Ep. 1",
+      "latest_url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+      "latest_date": "2026-10-17"
+    },
+    {
+      "name": "NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "category": "AI 工程",
+      "quality": 90,
+      "description": "GPU、推理、训练优化和加速计算的深度技术实践。",
+      "tags": [
+        "GPU",
+        "Inference",
+        "Performance"
+      ],
+      "status": "updated",
+      "posts_this_week": 7,
+      "latest_title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+      "latest_url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/",
+      "latest_date": "2026-10-19"
+    },
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/discover/blog/",
+      "feed": "https://deepmind.google/blog/rss.xml",
+      "category": "前沿实验室",
+      "quality": 98,
+      "description": "前沿模型、强化学习、科学智能和 AI 安全研究的官方发布。",
+      "tags": [
+        "Frontier",
+        "Science",
+        "Safety"
+      ],
+      "status": "updated",
       "posts_this_week": 5,
-      "latest_title": "Impactful scheduling for GPU clusters",
-      "latest_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "latest_date": "2026-10-09"
-    },
-    {
-      "name": "Allen AI",
-      "url": "https://allenai.org/blog",
-      "feed": "https://allenai.org/rss.xml",
-      "category": "研究机构",
-      "quality": 94,
-      "description": "开放模型、自然语言处理、科学 AI 和高质量数据研究。",
-      "tags": [
-        "Open Models",
-        "NLP",
-        "Science"
-      ],
-      "status": "updated",
-      "posts_this_week": 3,
-      "latest_title": "Impactful scheduling for GPU clusters",
-      "latest_url": "https://allenai.org/blog/impactful-scheduling",
-      "latest_date": "2026-10-09"
-    },
-    {
-      "name": "Interconnects",
-      "url": "https://www.interconnects.ai/",
-      "feed": "https://www.interconnects.ai/feed",
-      "category": "产业与研究",
-      "quality": 95,
-      "description": "Nathan Lambert 对开源模型、训练方法与前沿实验室动态的深度分析。",
-      "tags": [
-        "Open Models",
-        "Training",
-        "Policy"
-      ],
-      "status": "updated",
-      "posts_this_week": 2,
-      "latest_title": "I expect rapid progress but not towards general superintelligence",
-      "latest_url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
-      "latest_date": "2026-10-09"
+      "latest_title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "latest_url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "latest_date": "2026-10-15"
     },
     {
       "name": "Google Research",
@@ -142,10 +124,46 @@
         "Systems"
       ],
       "status": "updated",
+      "posts_this_week": 4,
+      "latest_title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+      "latest_url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+      "latest_date": "2026-10-16"
+    },
+    {
+      "name": "Allen AI",
+      "url": "https://allenai.org/blog",
+      "feed": "https://allenai.org/rss.xml",
+      "category": "研究机构",
+      "quality": 94,
+      "description": "开放模型、自然语言处理、科学 AI 和高质量数据研究。",
+      "tags": [
+        "Open Models",
+        "NLP",
+        "Science"
+      ],
+      "status": "updated",
       "posts_this_week": 2,
-      "latest_title": "Does better work always mean better workers?",
-      "latest_url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
-      "latest_date": "2026-10-07"
+      "latest_title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "latest_url": "https://allenai.org/blog/hiro-acev2",
+      "latest_date": "2026-10-14"
+    },
+    {
+      "name": "AI Snake Oil",
+      "url": "https://www.aisnakeoil.com/",
+      "feed": "https://www.aisnakeoil.com/feed",
+      "category": "社会与治理",
+      "quality": 93,
+      "description": "从实证与问责角度审视 AI 能力声明、风险、政策和社会影响。",
+      "tags": [
+        "Policy",
+        "Accountability",
+        "Society"
+      ],
+      "status": "updated",
+      "posts_this_week": 2,
+      "latest_title": "New paper: Emerging trends in AI agent evaluation",
+      "latest_url": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+      "latest_date": "2026-10-19"
     },
     {
       "name": "Gradient Flow",
@@ -161,27 +179,27 @@
       ],
       "status": "updated",
       "posts_this_week": 2,
-      "latest_title": "Eight Security Assumptions AI Agents Quietly Break",
-      "latest_url": "https://gradientflow.com/eight-security-assumptions-ai-agents-quietly-break/",
-      "latest_date": "2026-10-07"
+      "latest_title": "Local AI Is a Routing Problem, Not a Privacy Feature",
+      "latest_url": "https://gradientflow.com/local-ai-is-a-routing-problem-not-a-privacy-feature/",
+      "latest_date": "2026-10-14"
     },
     {
-      "name": "Google DeepMind",
-      "url": "https://deepmind.google/discover/blog/",
-      "feed": "https://deepmind.google/blog/rss.xml",
-      "category": "前沿实验室",
-      "quality": 98,
-      "description": "前沿模型、强化学习、科学智能和 AI 安全研究的官方发布。",
+      "name": "Interconnects",
+      "url": "https://www.interconnects.ai/",
+      "feed": "https://www.interconnects.ai/feed",
+      "category": "产业与研究",
+      "quality": 95,
+      "description": "Nathan Lambert 对开源模型、训练方法与前沿实验室动态的深度分析。",
       "tags": [
-        "Frontier",
-        "Science",
-        "Safety"
+        "Open Models",
+        "Training",
+        "Policy"
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "latest_url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "latest_date": "2026-10-06"
+      "latest_title": "Meta shakes up the frontiers, open and closed",
+      "latest_url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+      "latest_date": "2026-10-17"
     },
     {
       "name": "Import AI",
@@ -197,9 +215,9 @@
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
-      "latest_url": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
-      "latest_date": "2026-10-12"
+      "latest_title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+      "latest_url": "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/",
+      "latest_date": "2026-10-19"
     },
     {
       "name": "Lilian Weng",
@@ -308,24 +326,6 @@
       "latest_title": "Language Models for Text Classification: From Bag-of-Words to Jev",
       "latest_url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
       "latest_date": "2026-09-29"
-    },
-    {
-      "name": "AI Snake Oil",
-      "url": "https://www.aisnakeoil.com/",
-      "feed": "https://www.aisnakeoil.com/feed",
-      "category": "社会与治理",
-      "quality": 93,
-      "description": "从实证与问责角度审视 AI 能力声明、风险、政策和社会影响。",
-      "tags": [
-        "Policy",
-        "Accountability",
-        "Society"
-      ],
-      "status": "quiet",
-      "posts_this_week": 0,
-      "latest_title": "A big-tent or small-tent AI safety movement?",
-      "latest_url": "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
-      "latest_date": "2026-10-01"
     },
     {
       "name": "The Gradient",
