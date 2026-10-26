@@ -1,26 +1,8 @@
 {
-  "generated_at": "2026-10-19T20:34:12.775972+00:00",
+  "generated_at": "2026-10-26T20:27:22.706089+00:00",
   "window_days": 7,
-  "updated_count": 12,
+  "updated_count": 13,
   "blogs": [
-    {
-      "name": "Simon Willison",
-      "url": "https://simonwillison.net/",
-      "feed": "https://simonwillison.net/atom/everything/",
-      "category": "AI 工程",
-      "quality": 95,
-      "description": "高频追踪 LLM 工具、模型与开发实践，实验验证速度极快。",
-      "tags": [
-        "LLM",
-        "Tools",
-        "Engineering"
-      ],
-      "status": "updated",
-      "posts_this_week": 15,
-      "latest_title": "llm-tools-datasette 0.1.1",
-      "latest_url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
-      "latest_date": "2026-10-18"
-    },
     {
       "name": "OpenAI Research",
       "url": "https://openai.com/research/",
@@ -34,46 +16,28 @@
         "Safety"
       ],
       "status": "updated",
-      "posts_this_week": 12,
-      "latest_title": "How Itaú is building generative AI for its entire customer base",
-      "latest_url": "https://openai.com/index/itau-generative-ai",
-      "latest_date": "2026-10-16"
+      "posts_this_week": 22,
+      "latest_title": "ChatGPT’s expanding world of work",
+      "latest_url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "latest_date": "2026-10-26"
     },
     {
-      "name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog",
-      "feed": "https://huggingface.co/blog/feed.xml",
-      "category": "开源生态",
-      "quality": 94,
-      "description": "开源模型、数据集、推理优化和社区研究的高频技术文章。",
-      "tags": [
-        "Open Source",
-        "Models",
-        "Tools"
-      ],
-      "status": "updated",
-      "posts_this_week": 9,
-      "latest_title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "latest_url": "https://huggingface.co/blog/hf-torchneuron",
-      "latest_date": "2026-10-19"
-    },
-    {
-      "name": "Latent Space",
-      "url": "https://www.latent.space/",
-      "feed": "https://www.latent.space/feed",
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/",
+      "feed": "https://simonwillison.net/atom/everything/",
       "category": "AI 工程",
-      "quality": 91,
-      "description": "面向 AI 工程师的访谈与技术分析，关注工具链、智能体和基础设施。",
+      "quality": 95,
+      "description": "高频追踪 LLM 工具、模型与开发实践，实验验证速度极快。",
       "tags": [
-        "AI Engineering",
-        "Agents",
-        "Infra"
+        "LLM",
+        "Tools",
+        "Engineering"
       ],
       "status": "updated",
-      "posts_this_week": 8,
-      "latest_title": "[AINews] High Taste Testers Ep. 1",
-      "latest_url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
-      "latest_date": "2026-10-17"
+      "posts_this_week": 13,
+      "latest_title": "Quoting Jason Koebler",
+      "latest_url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "latest_date": "2026-10-26"
     },
     {
       "name": "NVIDIA Technical Blog",
@@ -88,46 +52,46 @@
         "Performance"
       ],
       "status": "updated",
-      "posts_this_week": 7,
-      "latest_title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
-      "latest_url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/",
-      "latest_date": "2026-10-19"
+      "posts_this_week": 12,
+      "latest_title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
+      "latest_url": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/",
+      "latest_date": "2026-10-26"
     },
     {
-      "name": "Google DeepMind",
-      "url": "https://deepmind.google/discover/blog/",
-      "feed": "https://deepmind.google/blog/rss.xml",
-      "category": "前沿实验室",
-      "quality": 98,
-      "description": "前沿模型、强化学习、科学智能和 AI 安全研究的官方发布。",
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "category": "开源生态",
+      "quality": 94,
+      "description": "开源模型、数据集、推理优化和社区研究的高频技术文章。",
       "tags": [
-        "Frontier",
-        "Science",
-        "Safety"
+        "Open Source",
+        "Models",
+        "Tools"
       ],
       "status": "updated",
-      "posts_this_week": 5,
-      "latest_title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "latest_url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "latest_date": "2026-10-15"
+      "posts_this_week": 11,
+      "latest_title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "latest_url": "https://huggingface.co/blog/allenai/litpivot",
+      "latest_date": "2026-10-23"
     },
     {
-      "name": "Google Research",
-      "url": "https://research.google/blog/",
-      "feed": "https://research.google/blog/rss/",
-      "category": "研究机构",
-      "quality": 95,
-      "description": "Google 跨机器学习、科学、系统与人机交互的研究成果。",
+      "name": "Latent Space",
+      "url": "https://www.latent.space/",
+      "feed": "https://www.latent.space/feed",
+      "category": "AI 工程",
+      "quality": 91,
+      "description": "面向 AI 工程师的访谈与技术分析，关注工具链、智能体和基础设施。",
       "tags": [
-        "Research",
-        "Science",
-        "Systems"
+        "AI Engineering",
+        "Agents",
+        "Infra"
       ],
       "status": "updated",
-      "posts_this_week": 4,
-      "latest_title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-      "latest_url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-      "latest_date": "2026-10-16"
+      "posts_this_week": 11,
+      "latest_title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "latest_url": "https://latent.space/p/ainews-kimi-31/",
+      "latest_date": "2026-10-24"
     },
     {
       "name": "Allen AI",
@@ -142,28 +106,46 @@
         "Science"
       ],
       "status": "updated",
-      "posts_this_week": 2,
-      "latest_title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "latest_url": "https://allenai.org/blog/hiro-acev2",
-      "latest_date": "2026-10-14"
+      "posts_this_week": 4,
+      "latest_title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "latest_url": "https://allenai.org/blog/litpivot",
+      "latest_date": "2026-10-23"
     },
     {
-      "name": "AI Snake Oil",
-      "url": "https://www.aisnakeoil.com/",
-      "feed": "https://www.aisnakeoil.com/feed",
-      "category": "社会与治理",
-      "quality": 93,
-      "description": "从实证与问责角度审视 AI 能力声明、风险、政策和社会影响。",
+      "name": "Interconnects",
+      "url": "https://www.interconnects.ai/",
+      "feed": "https://www.interconnects.ai/feed",
+      "category": "产业与研究",
+      "quality": 95,
+      "description": "Nathan Lambert 对开源模型、训练方法与前沿实验室动态的深度分析。",
       "tags": [
-        "Policy",
-        "Accountability",
-        "Society"
+        "Open Models",
+        "Training",
+        "Policy"
       ],
       "status": "updated",
       "posts_this_week": 2,
-      "latest_title": "New paper: Emerging trends in AI agent evaluation",
-      "latest_url": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
-      "latest_date": "2026-10-19"
+      "latest_title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+      "latest_url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+      "latest_date": "2026-10-25"
+    },
+    {
+      "name": "Google Research",
+      "url": "https://research.google/blog/",
+      "feed": "https://research.google/blog/rss/",
+      "category": "研究机构",
+      "quality": 95,
+      "description": "Google 跨机器学习、科学、系统与人机交互的研究成果。",
+      "tags": [
+        "Research",
+        "Science",
+        "Systems"
+      ],
+      "status": "updated",
+      "posts_this_week": 2,
+      "latest_title": "Bringing foundational models to the front lines of TB screening",
+      "latest_url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+      "latest_date": "2026-10-23"
     },
     {
       "name": "Gradient Flow",
@@ -179,27 +161,27 @@
       ],
       "status": "updated",
       "posts_this_week": 2,
-      "latest_title": "Local AI Is a Routing Problem, Not a Privacy Feature",
-      "latest_url": "https://gradientflow.com/local-ai-is-a-routing-problem-not-a-privacy-feature/",
-      "latest_date": "2026-10-14"
+      "latest_title": "The Model Factory Matters More Than the Model",
+      "latest_url": "https://gradientflow.com/the-model-factory-matters-more-than-the-model/",
+      "latest_date": "2026-10-21"
     },
     {
-      "name": "Interconnects",
-      "url": "https://www.interconnects.ai/",
-      "feed": "https://www.interconnects.ai/feed",
-      "category": "产业与研究",
-      "quality": 95,
-      "description": "Nathan Lambert 对开源模型、训练方法与前沿实验室动态的深度分析。",
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/discover/blog/",
+      "feed": "https://deepmind.google/blog/rss.xml",
+      "category": "前沿实验室",
+      "quality": 98,
+      "description": "前沿模型、强化学习、科学智能和 AI 安全研究的官方发布。",
       "tags": [
-        "Open Models",
-        "Training",
-        "Policy"
+        "Frontier",
+        "Science",
+        "Safety"
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "Meta shakes up the frontiers, open and closed",
-      "latest_url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
-      "latest_date": "2026-10-17"
+      "latest_title": "Beyond tree cover: mapping the world’s forest types",
+      "latest_url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "latest_date": "2026-10-22"
     },
     {
       "name": "Import AI",
@@ -215,9 +197,45 @@
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "Import AI 477: In which I tell the IMF the Singularity has begun",
-      "latest_url": "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/",
-      "latest_date": "2026-10-19"
+      "latest_title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+      "latest_url": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/",
+      "latest_date": "2026-10-26"
+    },
+    {
+      "name": "Ahead of AI",
+      "url": "https://magazine.sebastianraschka.com/",
+      "feed": "https://magazine.sebastianraschka.com/feed",
+      "category": "独立研究者",
+      "quality": 94,
+      "description": "Sebastian Raschka 对 LLM 训练、架构和实验结果的严谨拆解。",
+      "tags": [
+        "LLM",
+        "Training",
+        "Experiments"
+      ],
+      "status": "updated",
+      "posts_this_week": 1,
+      "latest_title": "Building Reasoning Models from the Ground Up: A Full Video Course",
+      "latest_url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "latest_date": "2026-10-24"
+    },
+    {
+      "name": "One Useful Thing",
+      "url": "https://www.oneusefulthing.org/",
+      "feed": "https://www.oneusefulthing.org/feed",
+      "category": "应用与思考",
+      "quality": 90,
+      "description": "Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。",
+      "tags": [
+        "Work",
+        "Education",
+        "Adoption"
+      ],
+      "status": "updated",
+      "posts_this_week": 1,
+      "latest_title": "30 Months on the Exponential (in Charts)",
+      "latest_url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+      "latest_date": "2026-10-20"
     },
     {
       "name": "Lilian Weng",
@@ -310,22 +328,22 @@
       "latest_date": "2025-03-26"
     },
     {
-      "name": "Ahead of AI",
-      "url": "https://magazine.sebastianraschka.com/",
-      "feed": "https://magazine.sebastianraschka.com/feed",
-      "category": "独立研究者",
-      "quality": 94,
-      "description": "Sebastian Raschka 对 LLM 训练、架构和实验结果的严谨拆解。",
+      "name": "AI Snake Oil",
+      "url": "https://www.aisnakeoil.com/",
+      "feed": "https://www.aisnakeoil.com/feed",
+      "category": "社会与治理",
+      "quality": 93,
+      "description": "从实证与问责角度审视 AI 能力声明、风险、政策和社会影响。",
       "tags": [
-        "LLM",
-        "Training",
-        "Experiments"
+        "Policy",
+        "Accountability",
+        "Society"
       ],
       "status": "quiet",
       "posts_this_week": 0,
-      "latest_title": "Language Models for Text Classification: From Bag-of-Words to Jev",
-      "latest_url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "latest_date": "2026-09-29"
+      "latest_title": "New paper: Emerging trends in AI agent evaluation",
+      "latest_url": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+      "latest_date": "2026-10-19"
     },
     {
       "name": "The Gradient",
@@ -344,24 +362,6 @@
       "latest_title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
       "latest_url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
       "latest_date": "2026-02-18"
-    },
-    {
-      "name": "One Useful Thing",
-      "url": "https://www.oneusefulthing.org/",
-      "feed": "https://www.oneusefulthing.org/feed",
-      "category": "应用与思考",
-      "quality": 90,
-      "description": "Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。",
-      "tags": [
-        "Work",
-        "Education",
-        "Adoption"
-      ],
-      "status": "quiet",
-      "posts_this_week": 0,
-      "latest_title": "The Dot and the Swarm",
-      "latest_url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "latest_date": "2026-10-01"
     }
   ]
 }
