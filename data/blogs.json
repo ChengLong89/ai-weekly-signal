@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T20:27:22.706089+00:00",
+  "generated_at": "2026-11-02T23:05:37.551992+00:00",
   "window_days": 7,
-  "updated_count": 13,
+  "updated_count": 11,
   "blogs": [
     {
       "name": "OpenAI Research",
@@ -16,10 +16,10 @@
         "Safety"
       ],
       "status": "updated",
-      "posts_this_week": 22,
-      "latest_title": "ChatGPT’s expanding world of work",
-      "latest_url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "latest_date": "2026-10-26"
+      "posts_this_week": 16,
+      "latest_title": "Introducing the Grid Protectors Program",
+      "latest_url": "https://openai.com/index/grid-protectors-program",
+      "latest_date": "2026-11-02"
     },
     {
       "name": "Simon Willison",
@@ -34,46 +34,10 @@
         "Engineering"
       ],
       "status": "updated",
-      "posts_this_week": 13,
-      "latest_title": "Quoting Jason Koebler",
-      "latest_url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-      "latest_date": "2026-10-26"
-    },
-    {
-      "name": "NVIDIA Technical Blog",
-      "url": "https://developer.nvidia.com/blog/",
-      "feed": "https://developer.nvidia.com/blog/feed/",
-      "category": "AI 工程",
-      "quality": 90,
-      "description": "GPU、推理、训练优化和加速计算的深度技术实践。",
-      "tags": [
-        "GPU",
-        "Inference",
-        "Performance"
-      ],
-      "status": "updated",
-      "posts_this_week": 12,
-      "latest_title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
-      "latest_url": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/",
-      "latest_date": "2026-10-26"
-    },
-    {
-      "name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog",
-      "feed": "https://huggingface.co/blog/feed.xml",
-      "category": "开源生态",
-      "quality": 94,
-      "description": "开源模型、数据集、推理优化和社区研究的高频技术文章。",
-      "tags": [
-        "Open Source",
-        "Models",
-        "Tools"
-      ],
-      "status": "updated",
-      "posts_this_week": 11,
-      "latest_title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "latest_url": "https://huggingface.co/blog/allenai/litpivot",
-      "latest_date": "2026-10-23"
+      "posts_this_week": 15,
+      "latest_title": "The U.S. Census Bureau and “Super Intelligence”",
+      "latest_url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "latest_date": "2026-11-02"
     },
     {
       "name": "Latent Space",
@@ -88,10 +52,82 @@
         "Infra"
       ],
       "status": "updated",
-      "posts_this_week": 11,
-      "latest_title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-      "latest_url": "https://latent.space/p/ainews-kimi-31/",
-      "latest_date": "2026-10-24"
+      "posts_this_week": 13,
+      "latest_title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+      "latest_url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+      "latest_date": "2026-11-02"
+    },
+    {
+      "name": "NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "category": "AI 工程",
+      "quality": 90,
+      "description": "GPU、推理、训练优化和加速计算的深度技术实践。",
+      "tags": [
+        "GPU",
+        "Inference",
+        "Performance"
+      ],
+      "status": "updated",
+      "posts_this_week": 13,
+      "latest_title": "Keep Distributed Training Running with Automated Workload Recovery",
+      "latest_url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/",
+      "latest_date": "2026-11-02"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "category": "开源生态",
+      "quality": 94,
+      "description": "开源模型、数据集、推理优化和社区研究的高频技术文章。",
+      "tags": [
+        "Open Source",
+        "Models",
+        "Tools"
+      ],
+      "status": "updated",
+      "posts_this_week": 7,
+      "latest_title": "nemotron-halloween",
+      "latest_url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "latest_date": "2026-10-30"
+    },
+    {
+      "name": "Gradient Flow",
+      "url": "https://gradientflow.com/",
+      "feed": "https://gradientflow.com/feed/",
+      "category": "产业与研究",
+      "quality": 88,
+      "description": "AI、数据与软件系统的研究型产业分析和专家访谈。",
+      "tags": [
+        "Data",
+        "Enterprise",
+        "Research"
+      ],
+      "status": "updated",
+      "posts_this_week": 5,
+      "latest_title": "Previewing the Debate Over Frontier AI Regulation",
+      "latest_url": "https://gradientflow.com/proposals-to-regulate-frontier-ai-labs/",
+      "latest_date": "2026-11-02"
+    },
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/discover/blog/",
+      "feed": "https://deepmind.google/blog/rss.xml",
+      "category": "前沿实验室",
+      "quality": 98,
+      "description": "前沿模型、强化学习、科学智能和 AI 安全研究的官方发布。",
+      "tags": [
+        "Frontier",
+        "Science",
+        "Safety"
+      ],
+      "status": "updated",
+      "posts_this_week": 3,
+      "latest_title": "Speeding up planning decisions with AI",
+      "latest_url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "latest_date": "2026-10-30"
     },
     {
       "name": "Allen AI",
@@ -106,10 +142,10 @@
         "Science"
       ],
       "status": "updated",
-      "posts_this_week": 4,
-      "latest_title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "latest_url": "https://allenai.org/blog/litpivot",
-      "latest_date": "2026-10-23"
+      "posts_this_week": 3,
+      "latest_title": "How Olmo 3 earned the highest ethical rating from Nextcloud",
+      "latest_url": "https://allenai.org/blog/nextcloud",
+      "latest_date": "2026-11-02"
     },
     {
       "name": "Interconnects",
@@ -125,9 +161,9 @@
       ],
       "status": "updated",
       "posts_this_week": 2,
-      "latest_title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
-      "latest_url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
-      "latest_date": "2026-10-25"
+      "latest_title": "Was I wrong about open models & cyber risks?",
+      "latest_url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+      "latest_date": "2026-10-30"
     },
     {
       "name": "Google Research",
@@ -142,46 +178,10 @@
         "Systems"
       ],
       "status": "updated",
-      "posts_this_week": 2,
-      "latest_title": "Bringing foundational models to the front lines of TB screening",
-      "latest_url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-      "latest_date": "2026-10-23"
-    },
-    {
-      "name": "Gradient Flow",
-      "url": "https://gradientflow.com/",
-      "feed": "https://gradientflow.com/feed/",
-      "category": "产业与研究",
-      "quality": 88,
-      "description": "AI、数据与软件系统的研究型产业分析和专家访谈。",
-      "tags": [
-        "Data",
-        "Enterprise",
-        "Research"
-      ],
-      "status": "updated",
-      "posts_this_week": 2,
-      "latest_title": "The Model Factory Matters More Than the Model",
-      "latest_url": "https://gradientflow.com/the-model-factory-matters-more-than-the-model/",
-      "latest_date": "2026-10-21"
-    },
-    {
-      "name": "Google DeepMind",
-      "url": "https://deepmind.google/discover/blog/",
-      "feed": "https://deepmind.google/blog/rss.xml",
-      "category": "前沿实验室",
-      "quality": 98,
-      "description": "前沿模型、强化学习、科学智能和 AI 安全研究的官方发布。",
-      "tags": [
-        "Frontier",
-        "Science",
-        "Safety"
-      ],
-      "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "Beyond tree cover: mapping the world’s forest types",
-      "latest_url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "latest_date": "2026-10-22"
+      "latest_title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "latest_url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "latest_date": "2026-10-27"
     },
     {
       "name": "Import AI",
@@ -197,45 +197,9 @@
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
-      "latest_url": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/",
-      "latest_date": "2026-10-26"
-    },
-    {
-      "name": "Ahead of AI",
-      "url": "https://magazine.sebastianraschka.com/",
-      "feed": "https://magazine.sebastianraschka.com/feed",
-      "category": "独立研究者",
-      "quality": 94,
-      "description": "Sebastian Raschka 对 LLM 训练、架构和实验结果的严谨拆解。",
-      "tags": [
-        "LLM",
-        "Training",
-        "Experiments"
-      ],
-      "status": "updated",
-      "posts_this_week": 1,
-      "latest_title": "Building Reasoning Models from the Ground Up: A Full Video Course",
-      "latest_url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "latest_date": "2026-10-24"
-    },
-    {
-      "name": "One Useful Thing",
-      "url": "https://www.oneusefulthing.org/",
-      "feed": "https://www.oneusefulthing.org/feed",
-      "category": "应用与思考",
-      "quality": 90,
-      "description": "Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。",
-      "tags": [
-        "Work",
-        "Education",
-        "Adoption"
-      ],
-      "status": "updated",
-      "posts_this_week": 1,
-      "latest_title": "30 Months on the Exponential (in Charts)",
-      "latest_url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
-      "latest_date": "2026-10-20"
+      "latest_title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+      "latest_url": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
+      "latest_date": "2026-11-02"
     },
     {
       "name": "Lilian Weng",
@@ -328,6 +292,24 @@
       "latest_date": "2025-03-26"
     },
     {
+      "name": "Ahead of AI",
+      "url": "https://magazine.sebastianraschka.com/",
+      "feed": "https://magazine.sebastianraschka.com/feed",
+      "category": "独立研究者",
+      "quality": 94,
+      "description": "Sebastian Raschka 对 LLM 训练、架构和实验结果的严谨拆解。",
+      "tags": [
+        "LLM",
+        "Training",
+        "Experiments"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "Building Reasoning Models from the Ground Up: A Full Video Course",
+      "latest_url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "latest_date": "2026-10-24"
+    },
+    {
       "name": "AI Snake Oil",
       "url": "https://www.aisnakeoil.com/",
       "feed": "https://www.aisnakeoil.com/feed",
@@ -362,6 +344,24 @@
       "latest_title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
       "latest_url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
       "latest_date": "2026-02-18"
+    },
+    {
+      "name": "One Useful Thing",
+      "url": "https://www.oneusefulthing.org/",
+      "feed": "https://www.oneusefulthing.org/feed",
+      "category": "应用与思考",
+      "quality": 90,
+      "description": "Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。",
+      "tags": [
+        "Work",
+        "Education",
+        "Adoption"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "30 Months on the Exponential (in Charts)",
+      "latest_url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+      "latest_date": "2026-10-20"
     }
   ]
 }
