@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T23:46:20.159435+00:00",
+  "generated_at": "2026-11-16T23:44:07.260632+00:00",
   "window_days": 7,
   "updated_count": 13,
   "blogs": [
@@ -16,10 +16,10 @@
         "Safety"
       ],
       "status": "updated",
-      "posts_this_week": 22,
-      "latest_title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "latest_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "latest_date": "2026-11-09"
+      "posts_this_week": 26,
+      "latest_title": "Broadening access to AI for scientists",
+      "latest_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "latest_date": "2026-11-16"
     },
     {
       "name": "Simon Willison",
@@ -34,46 +34,10 @@
         "Engineering"
       ],
       "status": "updated",
-      "posts_this_week": 16,
-      "latest_title": "The Web Is More Than Enough, by Paul Ford",
-      "latest_url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-      "latest_date": "2026-11-09"
-    },
-    {
-      "name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog",
-      "feed": "https://huggingface.co/blog/feed.xml",
-      "category": "开源生态",
-      "quality": 94,
-      "description": "开源模型、数据集、推理优化和社区研究的高频技术文章。",
-      "tags": [
-        "Open Source",
-        "Models",
-        "Tools"
-      ],
-      "status": "updated",
-      "posts_this_week": 9,
-      "latest_title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "latest_url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "latest_date": "2026-11-09"
-    },
-    {
-      "name": "Latent Space",
-      "url": "https://www.latent.space/",
-      "feed": "https://www.latent.space/feed",
-      "category": "AI 工程",
-      "quality": 91,
-      "description": "面向 AI 工程师的访谈与技术分析，关注工具链、智能体和基础设施。",
-      "tags": [
-        "AI Engineering",
-        "Agents",
-        "Infra"
-      ],
-      "status": "updated",
-      "posts_this_week": 9,
-      "latest_title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
-      "latest_url": "https://latent.space/p/handshake/",
-      "latest_date": "2026-11-09"
+      "posts_this_week": 21,
+      "latest_title": "datasette-maplibre 0.1a0",
+      "latest_url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "latest_date": "2026-11-15"
     },
     {
       "name": "NVIDIA Technical Blog",
@@ -88,64 +52,46 @@
         "Performance"
       ],
       "status": "updated",
-      "posts_this_week": 9,
-      "latest_title": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
-      "latest_url": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5/",
-      "latest_date": "2026-11-09"
+      "posts_this_week": 14,
+      "latest_title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+      "latest_url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/",
+      "latest_date": "2026-11-16"
     },
     {
-      "name": "Google Research",
-      "url": "https://research.google/blog/",
-      "feed": "https://research.google/blog/rss/",
-      "category": "研究机构",
-      "quality": 95,
-      "description": "Google 跨机器学习、科学、系统与人机交互的研究成果。",
+      "name": "Latent Space",
+      "url": "https://www.latent.space/",
+      "feed": "https://www.latent.space/feed",
+      "category": "AI 工程",
+      "quality": 91,
+      "description": "面向 AI 工程师的访谈与技术分析，关注工具链、智能体和基础设施。",
       "tags": [
-        "Research",
-        "Science",
-        "Systems"
+        "AI Engineering",
+        "Agents",
+        "Infra"
       ],
       "status": "updated",
-      "posts_this_week": 3,
-      "latest_title": "Exploring the world's languages with Language Explorer",
-      "latest_url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
-      "latest_date": "2026-11-09"
+      "posts_this_week": 11,
+      "latest_title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+      "latest_url": "https://latent.space/p/bfl/",
+      "latest_date": "2026-11-16"
     },
     {
-      "name": "Allen AI",
-      "url": "https://allenai.org/blog",
-      "feed": "https://allenai.org/rss.xml",
-      "category": "研究机构",
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "category": "开源生态",
       "quality": 94,
-      "description": "开放模型、自然语言处理、科学 AI 和高质量数据研究。",
+      "description": "开源模型、数据集、推理优化和社区研究的高频技术文章。",
       "tags": [
-        "Open Models",
-        "NLP",
-        "Science"
+        "Open Source",
+        "Models",
+        "Tools"
       ],
       "status": "updated",
-      "posts_this_week": 3,
-      "latest_title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "latest_url": "https://allenai.org/blog/toyblocks",
-      "latest_date": "2026-11-06"
-    },
-    {
-      "name": "Gradient Flow",
-      "url": "https://gradientflow.com/",
-      "feed": "https://gradientflow.com/feed/",
-      "category": "产业与研究",
-      "quality": 88,
-      "description": "AI、数据与软件系统的研究型产业分析和专家访谈。",
-      "tags": [
-        "Data",
-        "Enterprise",
-        "Research"
-      ],
-      "status": "updated",
-      "posts_this_week": 3,
-      "latest_title": "AI Is Speeding Up the Teams Building AI",
-      "latest_url": "https://gradientflow.com/metr-anthropic-2026/",
-      "latest_date": "2026-11-06"
+      "posts_this_week": 10,
+      "latest_title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "latest_url": "https://huggingface.co/blog/openrouter",
+      "latest_date": "2026-11-16"
     },
     {
       "name": "Google DeepMind",
@@ -160,28 +106,46 @@
         "Safety"
       ],
       "status": "updated",
-      "posts_this_week": 2,
-      "latest_title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "latest_url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "latest_date": "2026-11-05"
+      "posts_this_week": 5,
+      "latest_title": "Introducing Gemini 4 Hydrogen",
+      "latest_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "latest_date": "2026-11-12"
     },
     {
-      "name": "BAIR Blog",
-      "url": "https://bair.berkeley.edu/blog/",
-      "feed": "https://bair.berkeley.edu/blog/feed.xml",
-      "category": "研究机构",
-      "quality": 96,
-      "description": "伯克利 AI 研究实验室的前沿成果解析，涵盖机器人、学习与基础模型。",
+      "name": "Gradient Flow",
+      "url": "https://gradientflow.com/",
+      "feed": "https://gradientflow.com/feed/",
+      "category": "产业与研究",
+      "quality": 88,
+      "description": "AI、数据与软件系统的研究型产业分析和专家访谈。",
       "tags": [
-        "Academic",
-        "Robotics",
-        "ML"
+        "Data",
+        "Enterprise",
+        "Research"
       ],
       "status": "updated",
-      "posts_this_week": 1,
-      "latest_title": "BAIR at CoRL 2026",
-      "latest_url": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
-      "latest_date": "2026-11-09"
+      "posts_this_week": 4,
+      "latest_title": "8 Ways to Make Agent Memory Earn Its Keep",
+      "latest_url": "https://gradientflow.com/8-ways-to-make-agent-memory-earn-its-keep/",
+      "latest_date": "2026-11-13"
+    },
+    {
+      "name": "Google Research",
+      "url": "https://research.google/blog/",
+      "feed": "https://research.google/blog/rss/",
+      "category": "研究机构",
+      "quality": 95,
+      "description": "Google 跨机器学习、科学、系统与人机交互的研究成果。",
+      "tags": [
+        "Research",
+        "Science",
+        "Systems"
+      ],
+      "status": "updated",
+      "posts_this_week": 2,
+      "latest_title": "Advancing science & engineering with Antigravity’s /teamwork",
+      "latest_url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "latest_date": "2026-11-13"
     },
     {
       "name": "Interconnects",
@@ -197,9 +161,9 @@
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "How big is the open model economy today?",
-      "latest_url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
-      "latest_date": "2026-11-04"
+      "latest_title": "Open-source AI without Jensen",
+      "latest_url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "latest_date": "2026-11-14"
     },
     {
       "name": "Import AI",
@@ -215,27 +179,63 @@
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
-      "latest_url": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/",
-      "latest_date": "2026-11-09"
+      "latest_title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+      "latest_url": "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/",
+      "latest_date": "2026-11-16"
     },
     {
-      "name": "One Useful Thing",
-      "url": "https://www.oneusefulthing.org/",
-      "feed": "https://www.oneusefulthing.org/feed",
-      "category": "应用与思考",
-      "quality": 90,
-      "description": "Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。",
+      "name": "Ahead of AI",
+      "url": "https://magazine.sebastianraschka.com/",
+      "feed": "https://magazine.sebastianraschka.com/feed",
+      "category": "独立研究者",
+      "quality": 94,
+      "description": "Sebastian Raschka 对 LLM 训练、架构和实验结果的严谨拆解。",
       "tags": [
-        "Work",
-        "Education",
-        "Adoption"
+        "LLM",
+        "Training",
+        "Experiments"
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "Fable 5.2 and Jagged AGI",
-      "latest_url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
-      "latest_date": "2026-11-09"
+      "latest_title": "Understanding Positional Embeddings in Modern LLMs",
+      "latest_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "latest_date": "2026-11-15"
+    },
+    {
+      "name": "Allen AI",
+      "url": "https://allenai.org/blog",
+      "feed": "https://allenai.org/rss.xml",
+      "category": "研究机构",
+      "quality": 94,
+      "description": "开放模型、自然语言处理、科学 AI 和高质量数据研究。",
+      "tags": [
+        "Open Models",
+        "NLP",
+        "Science"
+      ],
+      "status": "updated",
+      "posts_this_week": 1,
+      "latest_title": "XYBench: Helping with the problem behind the question",
+      "latest_url": "https://allenai.org/blog/xybench",
+      "latest_date": "2026-11-13"
+    },
+    {
+      "name": "AI Snake Oil",
+      "url": "https://www.aisnakeoil.com/",
+      "feed": "https://www.aisnakeoil.com/feed",
+      "category": "社会与治理",
+      "quality": 93,
+      "description": "从实证与问责角度审视 AI 能力声明、风险、政策和社会影响。",
+      "tags": [
+        "Policy",
+        "Accountability",
+        "Society"
+      ],
+      "status": "updated",
+      "posts_this_week": 1,
+      "latest_title": "The missing quadrant in responses to AI",
+      "latest_url": "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
+      "latest_date": "2026-11-10"
     },
     {
       "name": "Lilian Weng",
@@ -274,6 +274,24 @@
       "latest_date": "2025-01-16"
     },
     {
+      "name": "BAIR Blog",
+      "url": "https://bair.berkeley.edu/blog/",
+      "feed": "https://bair.berkeley.edu/blog/feed.xml",
+      "category": "研究机构",
+      "quality": 96,
+      "description": "伯克利 AI 研究实验室的前沿成果解析，涵盖机器人、学习与基础模型。",
+      "tags": [
+        "Academic",
+        "Robotics",
+        "ML"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "BAIR at CoRL 2026",
+      "latest_url": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+      "latest_date": "2026-11-09"
+    },
+    {
       "name": "Eugene Yan",
       "url": "https://eugeneyan.com/",
       "feed": "https://eugeneyan.com/rss/",
@@ -287,9 +305,9 @@
       ],
       "status": "quiet",
       "posts_this_week": 0,
-      "latest_title": "Patterns for Building Cybersecurity Evals",
-      "latest_url": "https://eugeneyan.com//writing/cybersecurity-evals/",
-      "latest_date": "2026-06-21"
+      "latest_title": "AI Engineer 2026 - Using LLMs to Secure Source Code",
+      "latest_url": "https://eugeneyan.com/speaking/aie-2026",
+      "latest_date": "2026-06-30"
     },
     {
       "name": "Jay Alammar",
@@ -310,42 +328,6 @@
       "latest_date": "2025-03-26"
     },
     {
-      "name": "Ahead of AI",
-      "url": "https://magazine.sebastianraschka.com/",
-      "feed": "https://magazine.sebastianraschka.com/feed",
-      "category": "独立研究者",
-      "quality": 94,
-      "description": "Sebastian Raschka 对 LLM 训练、架构和实验结果的严谨拆解。",
-      "tags": [
-        "LLM",
-        "Training",
-        "Experiments"
-      ],
-      "status": "quiet",
-      "posts_this_week": 0,
-      "latest_title": "Building Reasoning Models from the Ground Up: A Full Video Course",
-      "latest_url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "latest_date": "2026-10-24"
-    },
-    {
-      "name": "AI Snake Oil",
-      "url": "https://www.aisnakeoil.com/",
-      "feed": "https://www.aisnakeoil.com/feed",
-      "category": "社会与治理",
-      "quality": 93,
-      "description": "从实证与问责角度审视 AI 能力声明、风险、政策和社会影响。",
-      "tags": [
-        "Policy",
-        "Accountability",
-        "Society"
-      ],
-      "status": "quiet",
-      "posts_this_week": 0,
-      "latest_title": "New paper: Emerging trends in AI agent evaluation",
-      "latest_url": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
-      "latest_date": "2026-10-19"
-    },
-    {
       "name": "The Gradient",
       "url": "https://thegradient.pub/",
       "feed": "https://thegradient.pub/rss/",
@@ -362,6 +344,24 @@
       "latest_title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
       "latest_url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
       "latest_date": "2026-02-18"
+    },
+    {
+      "name": "One Useful Thing",
+      "url": "https://www.oneusefulthing.org/",
+      "feed": "https://www.oneusefulthing.org/feed",
+      "category": "应用与思考",
+      "quality": 90,
+      "description": "Ethan Mollick 以实验和案例研究 AI 对工作、教育与组织的真实影响。",
+      "tags": [
+        "Work",
+        "Education",
+        "Adoption"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "Fable 5.2 and Jagged AGI",
+      "latest_url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+      "latest_date": "2026-11-09"
     }
   ]
 }
