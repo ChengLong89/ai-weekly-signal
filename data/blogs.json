@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-16T23:44:07.260632+00:00",
+  "generated_at": "2026-11-24T02:10:17.831992+00:00",
   "window_days": 7,
-  "updated_count": 13,
+  "updated_count": 12,
   "blogs": [
     {
       "name": "OpenAI Research",
@@ -16,10 +16,10 @@
         "Safety"
       ],
       "status": "updated",
-      "posts_this_week": 26,
-      "latest_title": "Broadening access to AI for scientists",
-      "latest_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "latest_date": "2026-11-16"
+      "posts_this_week": 21,
+      "latest_title": "OpenAI and Cisco introduce Shirudo",
+      "latest_url": "https://openai.com/index/introducing-shirudo",
+      "latest_date": "2026-11-23"
     },
     {
       "name": "Simon Willison",
@@ -34,10 +34,10 @@
         "Engineering"
       ],
       "status": "updated",
-      "posts_this_week": 21,
-      "latest_title": "datasette-maplibre 0.1a0",
-      "latest_url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-      "latest_date": "2026-11-15"
+      "posts_this_week": 18,
+      "latest_title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "latest_url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "latest_date": "2026-11-23"
     },
     {
       "name": "NVIDIA Technical Blog",
@@ -52,28 +52,10 @@
         "Performance"
       ],
       "status": "updated",
-      "posts_this_week": 14,
-      "latest_title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
-      "latest_url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/",
-      "latest_date": "2026-11-16"
-    },
-    {
-      "name": "Latent Space",
-      "url": "https://www.latent.space/",
-      "feed": "https://www.latent.space/feed",
-      "category": "AI 工程",
-      "quality": 91,
-      "description": "面向 AI 工程师的访谈与技术分析，关注工具链、智能体和基础设施。",
-      "tags": [
-        "AI Engineering",
-        "Agents",
-        "Infra"
-      ],
-      "status": "updated",
-      "posts_this_week": 11,
-      "latest_title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
-      "latest_url": "https://latent.space/p/bfl/",
-      "latest_date": "2026-11-16"
+      "posts_this_week": 10,
+      "latest_title": "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
+      "latest_url": "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0/",
+      "latest_date": "2026-11-23"
     },
     {
       "name": "Hugging Face Blog",
@@ -88,10 +70,28 @@
         "Tools"
       ],
       "status": "updated",
-      "posts_this_week": 10,
-      "latest_title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "latest_url": "https://huggingface.co/blog/openrouter",
-      "latest_date": "2026-11-16"
+      "posts_this_week": 9,
+      "latest_title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "latest_url": "https://huggingface.co/blog/allenai/robotrack",
+      "latest_date": "2026-11-23"
+    },
+    {
+      "name": "Latent Space",
+      "url": "https://www.latent.space/",
+      "feed": "https://www.latent.space/feed",
+      "category": "AI 工程",
+      "quality": 91,
+      "description": "面向 AI 工程师的访谈与技术分析，关注工具链、智能体和基础设施。",
+      "tags": [
+        "AI Engineering",
+        "Agents",
+        "Infra"
+      ],
+      "status": "updated",
+      "posts_this_week": 8,
+      "latest_title": "[AINews] Riemann Hypothesis proved...twice independently",
+      "latest_url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+      "latest_date": "2026-11-21"
     },
     {
       "name": "Google DeepMind",
@@ -106,28 +106,10 @@
         "Safety"
       ],
       "status": "updated",
-      "posts_this_week": 5,
-      "latest_title": "Introducing Gemini 4 Hydrogen",
-      "latest_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "latest_date": "2026-11-12"
-    },
-    {
-      "name": "Gradient Flow",
-      "url": "https://gradientflow.com/",
-      "feed": "https://gradientflow.com/feed/",
-      "category": "产业与研究",
-      "quality": 88,
-      "description": "AI、数据与软件系统的研究型产业分析和专家访谈。",
-      "tags": [
-        "Data",
-        "Enterprise",
-        "Research"
-      ],
-      "status": "updated",
-      "posts_this_week": 4,
-      "latest_title": "8 Ways to Make Agent Memory Earn Its Keep",
-      "latest_url": "https://gradientflow.com/8-ways-to-make-agent-memory-earn-its-keep/",
-      "latest_date": "2026-11-13"
+      "posts_this_week": 3,
+      "latest_title": "Finding faster quantum algorithms with agents and formal verification",
+      "latest_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "latest_date": "2026-11-23"
     },
     {
       "name": "Google Research",
@@ -142,28 +124,64 @@
         "Systems"
       ],
       "status": "updated",
-      "posts_this_week": 2,
-      "latest_title": "Advancing science & engineering with Antigravity’s /teamwork",
-      "latest_url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "latest_date": "2026-11-13"
+      "posts_this_week": 3,
+      "latest_title": "Supercharging transformer residual connections",
+      "latest_url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "latest_date": "2026-11-23"
     },
     {
-      "name": "Interconnects",
-      "url": "https://www.interconnects.ai/",
-      "feed": "https://www.interconnects.ai/feed",
-      "category": "产业与研究",
-      "quality": 95,
-      "description": "Nathan Lambert 对开源模型、训练方法与前沿实验室动态的深度分析。",
+      "name": "Allen AI",
+      "url": "https://allenai.org/blog",
+      "feed": "https://allenai.org/rss.xml",
+      "category": "研究机构",
+      "quality": 94,
+      "description": "开放模型、自然语言处理、科学 AI 和高质量数据研究。",
       "tags": [
         "Open Models",
-        "Training",
-        "Policy"
+        "NLP",
+        "Science"
+      ],
+      "status": "updated",
+      "posts_this_week": 3,
+      "latest_title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "latest_url": "https://allenai.org/blog/robotrack",
+      "latest_date": "2026-11-23"
+    },
+    {
+      "name": "Gradient Flow",
+      "url": "https://gradientflow.com/",
+      "feed": "https://gradientflow.com/feed/",
+      "category": "产业与研究",
+      "quality": 88,
+      "description": "AI、数据与软件系统的研究型产业分析和专家访谈。",
+      "tags": [
+        "Data",
+        "Enterprise",
+        "Research"
+      ],
+      "status": "updated",
+      "posts_this_week": 2,
+      "latest_title": "Building AI Agents Is Getting Easier. Running Them Isn’t.",
+      "latest_url": "https://gradientflow.com/building-ai-agents-is-getting-easier-running-them-isnt/",
+      "latest_date": "2026-11-18"
+    },
+    {
+      "name": "Eugene Yan",
+      "url": "https://eugeneyan.com/",
+      "feed": "https://eugeneyan.com/rss/",
+      "category": "AI 工程",
+      "quality": 95,
+      "description": "推荐系统、LLM 应用与评测的实战总结，结构清晰且重视证据。",
+      "tags": [
+        "Evaluation",
+        "RecSys",
+        "LLM"
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "Open-source AI without Jensen",
-      "latest_url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-      "latest_date": "2026-11-14"
+      "latest_title": "How Evals are Built, Where they Break, and What to Measure Instead.",
+      "latest_url": "https://eugeneyan.com/writing/public-evals",
+      "latest_date": "2026-11-22"
     },
     {
       "name": "Import AI",
@@ -179,45 +197,9 @@
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-      "latest_url": "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/",
-      "latest_date": "2026-11-16"
-    },
-    {
-      "name": "Ahead of AI",
-      "url": "https://magazine.sebastianraschka.com/",
-      "feed": "https://magazine.sebastianraschka.com/feed",
-      "category": "独立研究者",
-      "quality": 94,
-      "description": "Sebastian Raschka 对 LLM 训练、架构和实验结果的严谨拆解。",
-      "tags": [
-        "LLM",
-        "Training",
-        "Experiments"
-      ],
-      "status": "updated",
-      "posts_this_week": 1,
-      "latest_title": "Understanding Positional Embeddings in Modern LLMs",
-      "latest_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "latest_date": "2026-11-15"
-    },
-    {
-      "name": "Allen AI",
-      "url": "https://allenai.org/blog",
-      "feed": "https://allenai.org/rss.xml",
-      "category": "研究机构",
-      "quality": 94,
-      "description": "开放模型、自然语言处理、科学 AI 和高质量数据研究。",
-      "tags": [
-        "Open Models",
-        "NLP",
-        "Science"
-      ],
-      "status": "updated",
-      "posts_this_week": 1,
-      "latest_title": "XYBench: Helping with the problem behind the question",
-      "latest_url": "https://allenai.org/blog/xybench",
-      "latest_date": "2026-11-13"
+      "latest_title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
+      "latest_url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
+      "latest_date": "2026-11-23"
     },
     {
       "name": "AI Snake Oil",
@@ -233,9 +215,9 @@
       ],
       "status": "updated",
       "posts_this_week": 1,
-      "latest_title": "The missing quadrant in responses to AI",
-      "latest_url": "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
-      "latest_date": "2026-11-10"
+      "latest_title": "Management consulting is not a thin wrapper on intelligence",
+      "latest_url": "https://www.normaltech.ai/p/management-consulting-is-not-a-thin",
+      "latest_date": "2026-11-23"
     },
     {
       "name": "Lilian Weng",
@@ -292,22 +274,22 @@
       "latest_date": "2026-11-09"
     },
     {
-      "name": "Eugene Yan",
-      "url": "https://eugeneyan.com/",
-      "feed": "https://eugeneyan.com/rss/",
-      "category": "AI 工程",
+      "name": "Interconnects",
+      "url": "https://www.interconnects.ai/",
+      "feed": "https://www.interconnects.ai/feed",
+      "category": "产业与研究",
       "quality": 95,
-      "description": "推荐系统、LLM 应用与评测的实战总结，结构清晰且重视证据。",
+      "description": "Nathan Lambert 对开源模型、训练方法与前沿实验室动态的深度分析。",
       "tags": [
-        "Evaluation",
-        "RecSys",
-        "LLM"
+        "Open Models",
+        "Training",
+        "Policy"
       ],
       "status": "quiet",
       "posts_this_week": 0,
-      "latest_title": "AI Engineer 2026 - Using LLMs to Secure Source Code",
-      "latest_url": "https://eugeneyan.com/speaking/aie-2026",
-      "latest_date": "2026-06-30"
+      "latest_title": "Open-source AI without Jensen",
+      "latest_url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "latest_date": "2026-11-14"
     },
     {
       "name": "Jay Alammar",
@@ -326,6 +308,24 @@
       "latest_title": "Moving To Substack",
       "latest_url": "http://jalammar.github.io/moving_to_substack/",
       "latest_date": "2025-03-26"
+    },
+    {
+      "name": "Ahead of AI",
+      "url": "https://magazine.sebastianraschka.com/",
+      "feed": "https://magazine.sebastianraschka.com/feed",
+      "category": "独立研究者",
+      "quality": 94,
+      "description": "Sebastian Raschka 对 LLM 训练、架构和实验结果的严谨拆解。",
+      "tags": [
+        "LLM",
+        "Training",
+        "Experiments"
+      ],
+      "status": "quiet",
+      "posts_this_week": 0,
+      "latest_title": "Understanding Positional Embeddings in Modern LLMs",
+      "latest_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "latest_date": "2026-11-15"
     },
     {
       "name": "The Gradient",
